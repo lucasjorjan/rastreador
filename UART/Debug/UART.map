@@ -1,0 +1,1891 @@
+Archive member included to satisfy reference by file (symbol)
+
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_clzsi2.o)
+                              ./ra/fsp/src/r_adc/r_adc.o (__clzsi2)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_aeabi_ldivmod.o)
+                              ./ra/fsp/src/r_sci_uart/r_sci_uart.o (__aeabi_ldivmod)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_muldi3.o)
+                              ./ra/fsp/src/r_sci_uart/r_sci_uart.o (__aeabi_lmul)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(bpabi.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_aeabi_ldivmod.o) (__gnu_ldivmod_helper)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(mulsf3.o)
+                              ./src/hal_entry.o (__aeabi_fmul)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(subsf3.o)
+                              ./src/hal_entry.o (__aeabi_fsub)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(fixsfsi.o)
+                              ./src/hal_entry.o (__aeabi_f2iz)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(floatsisf.o)
+                              ./src/hal_entry.o (__aeabi_i2f)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_dvmd_tls.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_divdi3.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(bpabi.o) (__divdi3)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-errno.o)
+                              ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o (__errno)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-exit.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/rdimon-crt0.o (exit)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-impure.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-init.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/rdimon-crt0.o (__libc_init_array)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+                              ./src/RTT/SEGGER_RTT.o (memcpy)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-memset.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/rdimon-crt0.o (memset)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-strlen.o)
+                              ./src/RTT/SEGGER_RTT.o (strlen)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/rdimon-crt0.o (initialise_monitor_handles)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-_exit.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-exit.o) (_exit)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-_kill.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-_exit.o) (_kill_shared)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o) (__sinit)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-fwalk.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o) (_fwalk)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o) (__retarget_lock_init_recursive)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o) (_malloc_r)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-sbrkr.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-stdio.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o) (__sread)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-writer.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-stdio.o) (_write_r)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-closer.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-stdio.o) (_close_r)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-fflush.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o) (_fflush_r)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lseekr.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-stdio.o) (_lseek_r)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-mlock.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-nano-mallocr.o) (__malloc_lock)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-nano-freer.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-fflush.o) (_free_r)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-readr.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-stdio.o) (_read_r)
+/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-reent.o)
+                              /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-sbrkr.o) (errno)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crti.o
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crti.o
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crti.o
+ .data          0x0000000000000000        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+ .rodata        0x0000000000000000       0x24 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+ .text          0x0000000000000000       0xf8 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/rdimon-crt0.o
+ .data          0x0000000000000000      0x118 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/rdimon-crt0.o
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/rdimon-crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/rdimon-crt0.o
+ .ARM.exidx     0x0000000000000000       0x10 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/rdimon-crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x20 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/rdimon-crt0.o
+ .text          0x0000000000000000        0x0 ./src/RTT/SEGGER_RTT.o
+ .data          0x0000000000000000        0x0 ./src/RTT/SEGGER_RTT.o
+ .bss           0x0000000000000000        0x0 ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_ReadUpBufferNoLock
+                0x0000000000000000      0x11c ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_ReadNoLock
+                0x0000000000000000      0x104 ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_ReadUpBuffer
+                0x0000000000000000       0x1c ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_Read
+                0x0000000000000000       0x1c ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_WriteWithOverwriteNoLock
+                0x0000000000000000      0x12c ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_WriteSkipNoLock
+                0x0000000000000000       0xc0 ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_WriteDownBufferNoLock
+                0x0000000000000000       0x80 ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_WriteDownBuffer
+                0x0000000000000000       0x34 ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_WriteString
+                0x0000000000000000       0x3c ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_PutCharSkipNoLock
+                0x0000000000000000       0x48 ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_PutCharSkip
+                0x0000000000000000       0x74 ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_PutChar
+                0x0000000000000000       0x98 ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_GetKey
+                0x0000000000000000       0x30 ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_WaitKey
+                0x0000000000000000       0x2c ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_HasKey
+                0x0000000000000000       0x20 ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_HasData
+                0x0000000000000000       0x1c ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_HasDataUp
+                0x0000000000000000       0x1c ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_AllocDownBuffer
+                0x0000000000000000       0x90 ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_AllocUpBuffer
+                0x0000000000000000       0x9c ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_ConfigUpBuffer
+                0x0000000000000000       0x8c ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_ConfigDownBuffer
+                0x0000000000000000       0x80 ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_SetNameUpBuffer
+                0x0000000000000000       0x40 ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_SetNameDownBuffer
+                0x0000000000000000       0x48 ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_SetFlagsUpBuffer
+                0x0000000000000000       0x48 ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_SetFlagsDownBuffer
+                0x0000000000000000       0x48 ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_Init
+                0x0000000000000000        0x8 ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_SetTerminal
+                0x0000000000000000       0xa8 ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_TerminalOut
+                0x0000000000000000      0x148 ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_GetAvailWriteSpace
+                0x0000000000000000       0x2c ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_GetBytesInBuffer
+                0x0000000000000000       0x28 ./src/RTT/SEGGER_RTT.o
+ .bss._ActiveTerminal
+                0x0000000000000000        0x1 ./src/RTT/SEGGER_RTT.o
+ .rodata._aTerminalId
+                0x0000000000000000       0x10 ./src/RTT/SEGGER_RTT.o
+ .text          0x0000000000000000        0x0 ./src/RTT/SEGGER_RTT_ASM_ARMv7M.o
+ .data          0x0000000000000000        0x0 ./src/RTT/SEGGER_RTT_ASM_ARMv7M.o
+ .bss           0x0000000000000000        0x0 ./src/RTT/SEGGER_RTT_ASM_ARMv7M.o
+ .ARM.attributes
+                0x0000000000000000       0x20 ./src/RTT/SEGGER_RTT_ASM_ARMv7M.o
+ .text          0x0000000000000000        0x0 ./src/RTT/SEGGER_RTT_printf.o
+ .data          0x0000000000000000        0x0 ./src/RTT/SEGGER_RTT_printf.o
+ .bss           0x0000000000000000        0x0 ./src/RTT/SEGGER_RTT_printf.o
+ .text          0x0000000000000000        0x0 ./src/basic_io.o
+ .data          0x0000000000000000        0x0 ./src/basic_io.o
+ .bss           0x0000000000000000        0x0 ./src/basic_io.o
+ .rodata.print_stats.str1.4
+                0x0000000000000000       0x2b ./src/basic_io.o
+ .text.print_stats
+                0x0000000000000000       0x38 ./src/basic_io.o
+ .text          0x0000000000000000        0x0 ./src/hal_entry.o
+ .data          0x0000000000000000        0x0 ./src/hal_entry.o
+ .bss           0x0000000000000000        0x0 ./src/hal_entry.o
+ .text.at_SendRaw
+                0x0000000000000000       0x48 ./src/hal_entry.o
+ .text.at_SendString
+                0x0000000000000000       0x54 ./src/hal_entry.o
+ .bss.PSM_IND_R_LEVEL
+                0x0000000000000000        0x1 ./src/hal_entry.o
+ .text          0x0000000000000000        0x0 ./ra_gen/common_data.o
+ .data          0x0000000000000000        0x0 ./ra_gen/common_data.o
+ .bss           0x0000000000000000        0x0 ./ra_gen/common_data.o
+ .text.g_common_init
+                0x0000000000000000        0x4 ./ra_gen/common_data.o
+ .text          0x0000000000000000        0x0 ./ra_gen/hal_data.o
+ .data          0x0000000000000000        0x0 ./ra_gen/hal_data.o
+ .bss           0x0000000000000000        0x0 ./ra_gen/hal_data.o
+ .text.g_hal_init
+                0x0000000000000000        0x8 ./ra_gen/hal_data.o
+ .rodata.g_adc0
+                0x0000000000000000       0x10 ./ra_gen/hal_data.o
+ .rodata.g_uart0
+                0x0000000000000000        0xc ./ra_gen/hal_data.o
+ .text          0x0000000000000000        0x0 ./ra_gen/main.o
+ .data          0x0000000000000000        0x0 ./ra_gen/main.o
+ .bss           0x0000000000000000        0x0 ./ra_gen/main.o
+ .text          0x0000000000000000        0x0 ./ra_gen/pin_data.o
+ .data          0x0000000000000000        0x0 ./ra_gen/pin_data.o
+ .bss           0x0000000000000000        0x0 ./ra_gen/pin_data.o
+ .text          0x0000000000000000        0x0 ./ra_gen/vector_data.o
+ .data          0x0000000000000000        0x0 ./ra_gen/vector_data.o
+ .bss           0x0000000000000000        0x0 ./ra_gen/vector_data.o
+ .text          0x0000000000000000        0x0 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .data          0x0000000000000000        0x0 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .bss           0x0000000000000000        0x0 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_Close
+                0x0000000000000000       0xb4 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_CallbackSet
+                0x0000000000000000        0xc ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_BaudSet
+                0x0000000000000000       0x40 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_InfoGet
+                0x0000000000000000        0xc ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_Abort
+                0x0000000000000000       0x28 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_ReadStop
+                0x0000000000000000        0xc ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_BaudCalculate
+                0x0000000000000000      0x228 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .rodata.g_async_baud
+                0x0000000000000000        0xd ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .rodata.g_div_coefficient
+                0x0000000000000000       0x1a ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .rodata.g_uart_on_sci
+                0x0000000000000000       0x24 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .text          0x0000000000000000        0x0 ./ra/fsp/src/r_ioport/r_ioport.o
+ .data          0x0000000000000000        0x0 ./ra/fsp/src/r_ioport/r_ioport.o
+ .bss           0x0000000000000000        0x0 ./ra/fsp/src/r_ioport/r_ioport.o
+ .text          0x0000000000000000        0x0 ./ra/fsp/src/r_adc/r_adc.o
+ .data          0x0000000000000000        0x0 ./ra/fsp/src/r_adc/r_adc.o
+ .bss           0x0000000000000000        0x0 ./ra/fsp/src/r_adc/r_adc.o
+ .text.R_ADC_CallbackSet
+                0x0000000000000000        0xc ./ra/fsp/src/r_adc/r_adc.o
+ .text.R_ADC_ScanGroupStart
+                0x0000000000000000        0x4 ./ra/fsp/src/r_adc/r_adc.o
+ .text.R_ADC_ScanStop
+                0x0000000000000000        0xc ./ra/fsp/src/r_adc/r_adc.o
+ .text.R_ADC_StatusGet
+                0x0000000000000000        0xc ./ra/fsp/src/r_adc/r_adc.o
+ .text.R_ADC_Read32
+                0x0000000000000000       0x1c ./ra/fsp/src/r_adc/r_adc.o
+ .text.R_ADC_Calibrate
+                0x0000000000000000        0x4 ./ra/fsp/src/r_adc/r_adc.o
+ .text.R_ADC_OffsetSet
+                0x0000000000000000        0x4 ./ra/fsp/src/r_adc/r_adc.o
+ .text.R_ADC_InfoGet
+                0x0000000000000000       0x84 ./ra/fsp/src/r_adc/r_adc.o
+ .text.R_ADC_Close
+                0x0000000000000000      0x118 ./ra/fsp/src/r_adc/r_adc.o
+ .text.R_ADC_SampleStateCountSet
+                0x0000000000000000       0x14 ./ra/fsp/src/r_adc/r_adc.o
+ .text.adc_scan_end_b_isr
+                0x0000000000000000        0xc ./ra/fsp/src/r_adc/r_adc.o
+ .rodata.g_adc_on_adc
+                0x0000000000000000       0x34 ./ra/fsp/src/r_adc/r_adc.o
+ .text          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/ra2l1/bsp_power.o
+ .data          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/ra2l1/bsp_power.o
+ .bss           0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/ra2l1/bsp_power.o
+ .debug_info    0x0000000000000000       0x6b ./ra/fsp/src/bsp/mcu/ra2l1/bsp_power.o
+ .debug_abbrev  0x0000000000000000       0x26 ./ra/fsp/src/bsp/mcu/ra2l1/bsp_power.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./ra/fsp/src/bsp/mcu/ra2l1/bsp_power.o
+ .debug_line    0x0000000000000000       0x1d ./ra/fsp/src/bsp/mcu/ra2l1/bsp_power.o
+ .debug_str     0x0000000000000000      0x199 ./ra/fsp/src/bsp/mcu/ra2l1/bsp_power.o
+ .comment       0x0000000000000000       0x4a ./ra/fsp/src/bsp/mcu/ra2l1/bsp_power.o
+ .ARM.attributes
+                0x0000000000000000       0x30 ./ra/fsp/src/bsp/mcu/ra2l1/bsp_power.o
+ .text          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .data          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .bss           0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.bsp_prv_operating_mode_set
+                0x0000000000000000       0x8c ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.prv_clock_dividers_set
+                0x0000000000000000        0xc ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.bsp_prv_clock_set
+                0x0000000000000000       0x90 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.R_BSP_SubClockStabilizeWait
+                0x0000000000000000        0xc ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.R_BSP_OctaclkUpdate
+                0x0000000000000000        0x4 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.R_BSP_SourceClockHzGet
+                0x0000000000000000       0x10 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .data          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .bss           0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .text.R_FSP_VersionGet
+                0x0000000000000000        0xc ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .text.__assert_func
+                0x0000000000000000        0x4 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .text          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .data          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .bss           0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .text          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .data          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .bss           0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .text.R_BSP_GroupIrqWrite
+                0x0000000000000000       0x10 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .text          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .data          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .bss           0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_info    0x0000000000000000       0x6b ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_abbrev  0x0000000000000000       0x26 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_line    0x0000000000000000       0x1d ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_str     0x0000000000000000      0x197 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .comment       0x0000000000000000       0x4a ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .ARM.attributes
+                0x0000000000000000       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .text          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .data          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .bss           0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .text          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .data          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .bss           0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .rodata.g_interrupt_event_link_select
+                0x0000000000000000       0x20 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .text          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .data          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .bss           0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .text          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .data          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .bss           0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .text          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .data          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .bss           0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .text._sbrk    0x0000000000000000       0x44 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .bss.current_heap_end.0
+                0x0000000000000000        0x4 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_info    0x0000000000000000      0x13b ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_abbrev  0x0000000000000000       0xcc ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_loc     0x0000000000000000       0xf3 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_ranges  0x0000000000000000       0x10 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_line    0x0000000000000000      0x1dd ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_str     0x0000000000000000      0x221 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .comment       0x0000000000000000       0x4a ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_frame   0x0000000000000000       0x28 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .ARM.attributes
+                0x0000000000000000       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .text          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .data          0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .bss           0x0000000000000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_info    0x0000000000000000       0x6b ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_abbrev  0x0000000000000000       0x26 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_line    0x0000000000000000       0x1d ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_str     0x0000000000000000      0x19a ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .comment       0x0000000000000000       0x4a ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .ARM.attributes
+                0x0000000000000000       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .text          0x0000000000000000        0x0 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .data          0x0000000000000000        0x0 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .bss           0x0000000000000000        0x0 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .text          0x0000000000000000        0x0 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .data          0x0000000000000000        0x0 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .bss           0x0000000000000000        0x0 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .text.R_BSP_WarmStart
+                0x0000000000000000        0x4 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_clzsi2.o)
+ .text          0x0000000000000000       0x48 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x0000000000000000       0x22 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_muldi3.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_muldi3.o)
+ .text          0x0000000000000000       0x3c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(bpabi.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(bpabi.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(bpabi.o)
+ .debug_frame   0x0000000000000000       0x38 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(bpabi.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(mulsf3.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(mulsf3.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(subsf3.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(subsf3.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(fixsfsi.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(fixsfsi.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(floatsisf.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(floatsisf.o)
+ .text          0x0000000000000000        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_dvmd_tls.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000000000000000       0x22 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000      0x32c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_divdi3.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_divdi3.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_divdi3.o)
+ .ARM.extab     0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_divdi3.o)
+ .ARM.exidx     0x0000000000000000        0x8 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_divdi3.o)
+ .debug_frame   0x0000000000000000       0x3c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_divdi3.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-errno.o)
+ .text.__errno  0x0000000000000000        0xc /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000000       0x20 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x28 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000000000       0x60 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x0000000000000000       0x50 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000000000       0x2c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0xe /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000000000000000       0x1c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-strlen.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text.findslot
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text.error    0x0000000000000000       0x1c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text.checkerror
+                0x0000000000000000        0xc /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._swiread
+                0x0000000000000000       0x20 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._read    0x0000000000000000       0x34 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._swilseek
+                0x0000000000000000       0x76 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._lseek   0x0000000000000000        0x8 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._swiwrite
+                0x0000000000000000       0x20 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._write   0x0000000000000000       0x3e /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._swiclose
+                0x0000000000000000       0x18 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._close   0x0000000000000000       0x4c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._getpid  0x0000000000000000        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._sbrk    0x0000000000000000       0x48 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._swistat
+                0x0000000000000000       0x44 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._fstat   0x0000000000000000       0x1a /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._stat    0x0000000000000000       0x3c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._swiopen
+                0x0000000000000000       0xb8 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._open    0x0000000000000000       0x10 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .rodata._get_semihosting_exts.str1.1
+                0x0000000000000000       0x16 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._get_semihosting_exts
+                0x0000000000000000       0xac /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text.initialise_semihosting_exts
+                0x0000000000000000       0x34 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._has_ext_exit_extended
+                0x0000000000000000       0x18 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._has_ext_stdout_stderr
+                0x0000000000000000       0x18 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .rodata.initialise_monitor_handles.str1.1
+                0x0000000000000000        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text.initialise_monitor_handles
+                0x0000000000000000       0xb0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._link    0x0000000000000000       0x10 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._unlink  0x0000000000000000       0x24 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._gettimeofday
+                0x0000000000000000       0x28 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._clock   0x0000000000000000       0x12 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._times   0x0000000000000000       0x16 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._isatty  0x0000000000000000       0x3a /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._system  0x0000000000000000       0x3e /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._rename  0x0000000000000000       0x34 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .bss.heap_end.0
+                0x0000000000000000        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .bss.monitor_stderr
+                0x0000000000000000        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .bss.monitor_stdin
+                0x0000000000000000        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .bss.monitor_stdout
+                0x0000000000000000        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .bss.openfiles
+                0x0000000000000000       0xa0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .data.__heap_limit
+                0x0000000000000000        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .data.supports_ext_exit_extended
+                0x0000000000000000        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .data.supports_ext_stdout_stderr
+                0x0000000000000000        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .debug_frame   0x0000000000000000      0x374 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-_exit.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-_exit.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-_exit.o)
+ .text._exit    0x0000000000000000       0x14 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-_exit.o)
+ .debug_frame   0x0000000000000000       0x28 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-_exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-_exit.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-_kill.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-_kill.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-_kill.o)
+ .text._kill_shared
+                0x0000000000000000       0x24 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-_kill.o)
+ .text._kill    0x0000000000000000       0x18 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-_kill.o)
+ .debug_frame   0x0000000000000000       0x48 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-_kill.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a(rdimon-_kill.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+ .text.std      0x0000000000000000       0x48 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x0000000000000000       0x10 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x0000000000000000       0x18 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000000000       0x18 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x0000000000000000       0x2c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+ .text._cleanup
+                0x0000000000000000       0x10 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x0000000000000000       0x10 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_release
+                0x0000000000000000       0x10 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_acquire
+                0x0000000000000000       0x10 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_release
+                0x0000000000000000       0x10 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+ .text.__sinit  0x0000000000000000       0x70 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+ .text.__sfp    0x0000000000000000       0x8c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x0000000000000000       0x1c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x0000000000000000       0x1c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+ .rodata.__sf_fake_stderr
+                0x0000000000000000       0x20 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+ .rodata.__sf_fake_stdin
+                0x0000000000000000       0x20 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+ .rodata.__sf_fake_stdout
+                0x0000000000000000       0x20 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+ .debug_frame   0x0000000000000000      0x170 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-findfp.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-fwalk.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000000000000       0x36 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-fwalk.o)
+ .text._fwalk_reent
+                0x0000000000000000       0x40 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x0000000000000000       0x58 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-fwalk.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x2 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x0000000000000000        0x2 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x2 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x2 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x2 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x0000000000000000        0x2 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x2 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x0000000000000000        0x2 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x0000000000000000        0x1 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x0000000000000000        0x1 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x0000000000000000        0x1 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x0000000000000000        0x1 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x0000000000000000        0x1 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x0000000000000000        0x1 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x0000000000000000        0x1 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___sinit_recursive_mutex
+                0x0000000000000000        0x1 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x0000000000000000        0x1 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .debug_frame   0x0000000000000000       0xb0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .text.sbrk_aligned
+                0x0000000000000000       0x40 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .text._malloc_r
+                0x0000000000000000       0xec /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss.__malloc_free_list
+                0x0000000000000000        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x0000000000000000        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x0000000000000000       0x50 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x0000000000000000       0x20 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000000       0x2c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-stdio.o)
+ .text.__sread  0x0000000000000000       0x28 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-stdio.o)
+ .text.__seofread
+                0x0000000000000000        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-stdio.o)
+ .text.__swrite
+                0x0000000000000000       0x38 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-stdio.o)
+ .text.__sseek  0x0000000000000000       0x2c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-stdio.o)
+ .text.__sclose
+                0x0000000000000000        0xc /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-stdio.o)
+ .debug_frame   0x0000000000000000       0x90 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-stdio.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-writer.o)
+ .text._write_r
+                0x0000000000000000       0x24 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-writer.o)
+ .debug_frame   0x0000000000000000       0x2c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-writer.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-writer.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-closer.o)
+ .text._close_r
+                0x0000000000000000       0x20 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-closer.o)
+ .debug_frame   0x0000000000000000       0x2c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-closer.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-closer.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-fflush.o)
+ .text.__sflush_r
+                0x0000000000000000      0x114 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-fflush.o)
+ .text._fflush_r
+                0x0000000000000000       0x78 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-fflush.o)
+ .text.fflush   0x0000000000000000       0x28 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-fflush.o)
+ .debug_frame   0x0000000000000000       0x68 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-fflush.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lseekr.o)
+ .text._lseek_r
+                0x0000000000000000       0x24 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x0000000000000000       0x2c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-lseekr.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x0000000000000000       0x10 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-mlock.o)
+ .text.__malloc_unlock
+                0x0000000000000000       0x10 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000000       0x40 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .text._free_r  0x0000000000000000       0x8c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000000000000000       0x2c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-readr.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-readr.o)
+ .text._read_r  0x0000000000000000       0x24 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-readr.o)
+ .debug_frame   0x0000000000000000       0x2c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-readr.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-readr.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x18 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0xb0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-reent.o)
+ .bss.errno     0x0000000000000000        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x0000000000000000       0x48 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000000000000000       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtend.o
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtend.o
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtend.o
+ .rodata        0x0000000000000000       0x24 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtend.o
+ .text          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtn.o
+ .data          0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtn.o
+ .bss           0x0000000000000000        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ITCM             0x0000000000000000 0x0000000000000000 xr
+DTCM             0x0000000000000000 0x0000000000000000 xrw
+FLASH            0x0000000000000000 0x0000000000040000 xr
+RAM              0x0000000020000000 0x0000000000008000 xrw
+DATA_FLASH       0x0000000040100000 0x0000000000002000 xr
+QSPI_FLASH       0x0000000060000000 0x0000000000000000 xr
+OSPI_DEVICE_0    0x0000000080020000 0x0000000000000000 xr
+OSPI_DEVICE_1    0x0000000080030000 0x0000000000000000 xr
+OSPI_DEVICE_0_RAM 0x0000000080020000 0x0000000000000000 xrw
+OSPI_DEVICE_1_RAM 0x0000000080030000 0x0000000000000000 xrw
+SDRAM            0x0000000080010000 0x0000000000000000 xrw
+OPTION_SETTING   0x0000000000000000 0x0000000000000000 r
+OPTION_SETTING_OFS 0x0000000000000000 0x0000000000000018 r
+OPTION_SETTING_SAS 0x0000000000000034 0xffffffffffffffcc r
+OPTION_SETTING_S 0x0000000080000000 0x0000000000000000 r
+ID_CODE          0x0000000001010018 0x0000000000000020 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crti.o
+LOAD /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+LOAD /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/rdimon-crt0.o
+START GROUP
+LOAD ./src/RTT/SEGGER_RTT.o
+LOAD ./src/RTT/SEGGER_RTT_ASM_ARMv7M.o
+LOAD ./src/RTT/SEGGER_RTT_printf.o
+LOAD ./src/basic_io.o
+LOAD ./src/hal_entry.o
+LOAD ./ra_gen/common_data.o
+LOAD ./ra_gen/hal_data.o
+LOAD ./ra_gen/main.o
+LOAD ./ra_gen/pin_data.o
+LOAD ./ra_gen/vector_data.o
+LOAD ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+LOAD ./ra/fsp/src/r_ioport/r_ioport.o
+LOAD ./ra/fsp/src/r_adc/r_adc.o
+LOAD ./ra/fsp/src/bsp/mcu/ra2l1/bsp_power.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+LOAD ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+LOAD ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+END GROUP
+START GROUP
+LOAD /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a
+LOAD /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a
+LOAD /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a
+END GROUP
+START GROUP
+LOAD /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a
+LOAD /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a
+LOAD /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a
+END GROUP
+START GROUP
+LOAD /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a
+LOAD /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc_nano.a
+LOAD /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/librdimon_nano.a
+END GROUP
+LOAD /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtend.o
+LOAD /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtn.o
+                0x0000000020000000                RAM_START = 0x20000000
+                0x0000000000008000                RAM_LENGTH = 0x8000
+                0x0000000000000000                FLASH_START = 0x0
+                0x0000000000040000                FLASH_LENGTH = 0x40000
+                0x0000000040100000                DATA_FLASH_START = 0x40100000
+                0x0000000000002000                DATA_FLASH_LENGTH = 0x2000
+                0x0000000000000000                OPTION_SETTING_START = 0x0
+                0x0000000000000000                OPTION_SETTING_LENGTH = 0x0
+                0x0000000080000000                OPTION_SETTING_S_START = 0x80000000
+                0x0000000000000000                OPTION_SETTING_S_LENGTH = 0x0
+                0x0000000001010018                ID_CODE_START = 0x1010018
+                0x0000000000000020                ID_CODE_LENGTH = 0x20
+                0x0000000080010000                SDRAM_START = 0x80010000
+                0x0000000000000000                SDRAM_LENGTH = 0x0
+                0x0000000060000000                QSPI_FLASH_START = 0x60000000
+                0x0000000000000000                QSPI_FLASH_LENGTH = 0x0
+                0x0000000080020000                OSPI_DEVICE_0_START = 0x80020000
+                0x0000000000000000                OSPI_DEVICE_0_LENGTH = 0x0
+                0x0000000080030000                OSPI_DEVICE_1_START = 0x80030000
+                0x0000000000000000                OSPI_DEVICE_1_LENGTH = 0x0
+                0x0000000000000000                QSPI_FLASH_PRV_LENGTH = DEFINED (QSPI_FLASH_SIZE)?ABSOLUTE (QSPI_FLASH_SIZE):ABSOLUTE (QSPI_FLASH_LENGTH)
+                0x0000000000000000                OSPI_DEVICE_0_PRV_LENGTH = DEFINED (OSPI_DEVICE_0_SIZE)?ABSOLUTE (OSPI_DEVICE_0_SIZE):ABSOLUTE (OSPI_DEVICE_0_LENGTH)
+                0x0000000000000000                OSPI_DEVICE_1_PRV_LENGTH = DEFINED (OSPI_DEVICE_1_SIZE)?ABSOLUTE (OSPI_DEVICE_1_SIZE):ABSOLUTE (OSPI_DEVICE_1_LENGTH)
+                0x0000000000000000                __RESERVE_NS_RAM = ((! (DEFINED (PROJECT_NONSECURE)) && DEFINED (RAM_NS_BUFFER_LENGTH)) && (OPTION_SETTING_S_LENGTH != 0x0))
+                0x0000000000000000                ITCM_START = DEFINED (ITCM_START)?ITCM_START:0x0
+                0x0000000000000000                ITCM_LENGTH = DEFINED (ITCM_LENGTH)?ITCM_LENGTH:0x0
+                0x0000000000000000                DTCM_START = DEFINED (DTCM_START)?DTCM_START:0x0
+                0x0000000000000000                DTCM_LENGTH = DEFINED (DTCM_LENGTH)?DTCM_LENGTH:0x0
+                0x0000000000000000                NS_OFFSET_START = DEFINED (NS_OFFSET_START)?NS_OFFSET_START:0x0
+                0x0000000000000000                NS_IMAGE_OFFSET = DEFINED (PROJECT_NONSECURE)?NS_OFFSET_START:0x0
+                0x0000000000000000                RAM_NS_BUFFER_BLOCK_LENGTH = DEFINED (RAM_NS_BUFFER_LENGTH)?ALIGN (RAM_NS_BUFFER_LENGTH, 0x2000):0x0
+                0x0000000000000000                RAM_NS_BUFFER_LENGTH = DEFINED (RAM_NS_BUFFER_LENGTH)?RAM_NS_BUFFER_LENGTH:0x0
+                0x0000000020008000                RAM_NS_BUFFER_START = ((RAM_START + RAM_LENGTH) - RAM_NS_BUFFER_LENGTH)
+                0x0000000020008000                RAM_NS_BUFFER_BLOCK_START = ((RAM_START + RAM_LENGTH) - RAM_NS_BUFFER_BLOCK_LENGTH)
+                0x0000000000000080                OPTION_SETTING_START_NS = DEFINED (PROJECT_NONSECURE)?OPTION_SETTING_START:(OPTION_SETTING_START + 0x80)
+                0x0000000000000001                __bl_FSP_BOOTABLE_IMAGE = 0x1
+                0x0000000000000001                __bln_FSP_BOOTABLE_IMAGE = 0x1
+                0x0000000000000000                PROJECT_SECURE_OR_FLAT = (((! (DEFINED (PROJECT_NONSECURE)) || DEFINED (PROJECT_SECURE)) && OPTION_SETTING_LENGTH) && ! (DEFINED (FSP_BOOTABLE_IMAGE)))
+                0x0000000000000000                USE_OPTION_SETTING_NS = (DEFINED (PROJECT_NONSECURE) && ! (DEFINED (FSP_BOOTABLE_IMAGE)))
+                0x0000000000000000                __bl_FLASH_IMAGE_START = ! (DEFINED (FLASH_BOOTLOADER_LENGTH))?0x0:(FLASH_APPLICATION_IMAGE_NUMBER == 0x1)?(FLASH_BOOTLOADER_LENGTH + FLASH_BOOTLOADER_HEADER_LENGTH):(((FLASH_BOOTLOADER_LENGTH + FLASH_BOOTLOADER_SCRATCH_LENGTH) + FLASH_APPLICATION_S_LENGTH) + FLASH_BOOTLOADER_HEADER_LENGTH)
+                0x0000000000000000                __bl_FLASH_IMAGE_LENGTH = ! (DEFINED (FLASH_BOOTLOADER_LENGTH))?0x0:(FLASH_APPLICATION_S_LENGTH - FLASH_BOOTLOADER_HEADER_LENGTH)
+                0x0000000000000000                __bl_FLASH_IMAGE_END = (__bl_FLASH_IMAGE_START + __bl_FLASH_IMAGE_LENGTH)
+                0x0000000000000000                __bl_XIP_SECONDARY_FLASH_IMAGE_START = ! (DEFINED (FLASH_BOOTLOADER_LENGTH))?0x0:((FLASH_BOOTLOADER_LENGTH + FLASH_APPLICATION_S_LENGTH) + FLASH_BOOTLOADER_HEADER_LENGTH)
+                0x0000000000000000                __bl_XIP_SECONDARY_FLASH_IMAGE_END = (__bl_XIP_SECONDARY_FLASH_IMAGE_START + __bl_FLASH_IMAGE_LENGTH)
+                0x0000000000000000                __bl_FLASH_NS_START = ! (DEFINED (FLASH_BOOTLOADER_LENGTH))?0x0:(FLASH_APPLICATION_NS_LENGTH == 0x0)?__bl_FLASH_IMAGE_END:((__bl_FLASH_IMAGE_START - FLASH_BOOTLOADER_HEADER_LENGTH) + FLASH_APPLICATION_S_LENGTH)
+                0x0000000000000000                __bl_FLASH_NSC_START = ! (DEFINED (FLASH_BOOTLOADER_LENGTH))?0x0:(FLASH_APPLICATION_NS_LENGTH == 0x0)?__bl_FLASH_IMAGE_END:(__bl_FLASH_NS_START - FLASH_APPLICATION_NSC_LENGTH)
+                0x0000000000000000                __bl_RAM_NS_START = ! (DEFINED (FLASH_BOOTLOADER_LENGTH))?0x0:(FLASH_APPLICATION_NS_LENGTH == 0x0)?(RAM_START + RAM_LENGTH):((RAM_START + RAM_LENGTH) - RAM_APPLICATION_NS_LENGTH)
+                0x0000000000000000                __bl_RAM_NSC_START = ! (DEFINED (FLASH_BOOTLOADER_LENGTH))?0x0:(FLASH_APPLICATION_NS_LENGTH == 0x0)?(RAM_START + RAM_LENGTH):(__bl_RAM_NS_START - RAM_APPLICATION_NSC_LENGTH)
+                0x0000000000000000                __bl_FLASH_NS_IMAGE_START = ! (DEFINED (FLASH_BOOTLOADER_LENGTH))?0x0:(FLASH_APPLICATION_NS_LENGTH == 0x0)?__bl_FLASH_IMAGE_END:(__bl_FLASH_NS_START + FLASH_BOOTLOADER_HEADER_LENGTH_2)
+                0x0000000000000000                __bln_FLASH_IMAGE_START = __bl_FLASH_NS_IMAGE_START
+                0x0000000000000000                __bln_FLASH_IMAGE_LENGTH = ! (DEFINED (FLASH_BOOTLOADER_LENGTH))?0x0:(FLASH_APPLICATION_NS_LENGTH == 0x0)?__bl_FLASH_IMAGE_END:(FLASH_APPLICATION_NS_LENGTH - FLASH_BOOTLOADER_HEADER_LENGTH_2)
+                0x0000000000000000                XIP_SECONDARY_SLOT_IMAGE = DEFINED (XIP_SECONDARY_SLOT_IMAGE)?XIP_SECONDARY_SLOT_IMAGE:0x0
+                0x0000000000000000                FLASH_ORIGIN = ! (DEFINED (FLASH_IMAGE_START))?FLASH_START:(XIP_SECONDARY_SLOT_IMAGE == 0x1)?XIP_SECONDARY_FLASH_IMAGE_START:FLASH_IMAGE_START
+                0x0000000000040000                LIMITED_FLASH_LENGTH = DEFINED (FLASH_IMAGE_LENGTH)?FLASH_IMAGE_LENGTH:DEFINED (FLASH_BOOTLOADER_LENGTH)?FLASH_BOOTLOADER_LENGTH:FLASH_LENGTH
+START GROUP
+LOAD /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a
+LOAD /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libc.a
+LOAD /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libm.a
+LOAD /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libnosys.a
+END GROUP
+
+.itcm_data      0x0000000000000000        0x0
+                0x0000000000000000                __tz_ITCM_S = ABSOLUTE (ITCM_START)
+                0x0000000000000000                __itcm_data_start__ = .
+ *(.itcm_data*)
+                0x0000000000000000                __itcm_data_end__ = .
+                0x0000000000000000                __tz_ITCM_N = DEFINED (ITCM_NS_START)?ABSOLUTE (ITCM_NS_START):ALIGN (__itcm_data_end__, 0x2000)
+
+.text           0x0000000000000000     0x2e34
+                0x0000000000000000                __tz_FLASH_S = ABSOLUTE (FLASH_START)
+                0x0000000000000000                __ROM_Start = .
+ *(.fixed_vectors*)
+ .fixed_vectors
+                0x0000000000000000       0x40 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x0000000000000000                __Vectors
+ *(.application_vectors*)
+ .application_vectors
+                0x0000000000000040       0x80 ./ra_gen/vector_data.o
+                0x0000000000000040                g_vector_table
+                0x00000000000000c0                __Vectors_End = .
+                0x0000000000000400                . = (OPTION_SETTING_LENGTH > 0x0)?.:(__ROM_Start + 0x400)
+ *fill*         0x00000000000000c0      0x340 ff
+ *(.rom_registers*)
+ .rom_registers
+                0x0000000000000400       0x3c ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+                0x0000000000000500                . = (OPTION_SETTING_LENGTH > 0x0)?.:(__ROM_Start + 0x500)
+ *fill*         0x000000000000043c       0xc4 ff
+                0x0000000000000500                . = ALIGN (0x80)
+ *(.mcuboot_sce9_key*)
+ *(.text*)
+ .text          0x0000000000000500       0x50 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+ .text._WriteNoCheck
+                0x0000000000000550       0x54 ./src/RTT/SEGGER_RTT.o
+ .text._WriteBlocking
+                0x00000000000005a4       0x6c ./src/RTT/SEGGER_RTT.o
+ .text._DoInit  0x0000000000000610       0x78 ./src/RTT/SEGGER_RTT.o
+ .text.SEGGER_RTT_WriteNoLock
+                0x0000000000000688       0x88 ./src/RTT/SEGGER_RTT.o
+                0x0000000000000688                SEGGER_RTT_WriteNoLock
+ .text.SEGGER_RTT_Write
+                0x0000000000000710       0x34 ./src/RTT/SEGGER_RTT.o
+                0x0000000000000710                SEGGER_RTT_Write
+ .text._StoreChar
+                0x0000000000000744       0x40 ./src/RTT/SEGGER_RTT_printf.o
+ .text._PrintUnsigned
+                0x0000000000000784      0x100 ./src/RTT/SEGGER_RTT_printf.o
+ .text.SEGGER_RTT_vprintf
+                0x0000000000000884      0x308 ./src/RTT/SEGGER_RTT_printf.o
+                0x0000000000000884                SEGGER_RTT_vprintf
+ .text.SEGGER_RTT_printf
+                0x0000000000000b8c       0x1c ./src/RTT/SEGGER_RTT_printf.o
+                0x0000000000000b8c                SEGGER_RTT_printf
+ .text.print_string
+                0x0000000000000ba8       0x14 ./src/basic_io.o
+                0x0000000000000ba8                print_string
+ .text.print_string_and_number
+                0x0000000000000bbc       0x18 ./src/basic_io.o
+                0x0000000000000bbc                print_string_and_number
+ .text.floatToCharArray
+                0x0000000000000bd4       0xf8 ./src/hal_entry.o
+                0x0000000000000bd4                floatToCharArray
+ .text.adc_callback
+                0x0000000000000ccc       0x10 ./src/hal_entry.o
+                0x0000000000000ccc                adc_callback
+ .text.hal_entry
+                0x0000000000000cdc      0x24c ./src/hal_entry.o
+                0x0000000000000cdc                hal_entry
+ .text.example_callback
+                0x0000000000000f28       0x6c ./src/hal_entry.o
+                0x0000000000000f28                example_callback
+ .text.R_BSP_WarmStart
+                0x0000000000000f94       0x38 ./src/hal_entry.o
+                0x0000000000000f94                R_BSP_WarmStart
+ .text.startup.main
+                0x0000000000000fcc        0xc ./ra_gen/main.o
+                0x0000000000000fcc                main
+ .text.R_SCI_UART_Read
+                0x0000000000000fd8        0x8 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+                0x0000000000000fd8                R_SCI_UART_Read
+ .text.R_SCI_UART_Write
+                0x0000000000000fe0       0x40 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+                0x0000000000000fe0                R_SCI_UART_Write
+ .text.r_sci_irq_cfg
+                0x0000000000001020       0x88 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.r_sci_uart_call_callback
+                0x00000000000010a8       0x50 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_Open
+                0x00000000000010f8      0x2a8 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+                0x00000000000010f8                R_SCI_UART_Open
+ .text.sci_uart_txi_isr
+                0x00000000000013a0       0x94 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+                0x00000000000013a0                sci_uart_txi_isr
+ .text.sci_uart_rxi_isr
+                0x0000000000001434       0xa0 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+                0x0000000000001434                sci_uart_rxi_isr
+ .text.sci_uart_tei_isr
+                0x00000000000014d4       0x4c ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+                0x00000000000014d4                sci_uart_tei_isr
+ .text.sci_uart_eri_isr
+                0x0000000000001520       0x78 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+                0x0000000000001520                sci_uart_eri_isr
+ .text.R_IOPORT_Close
+                0x0000000000001598        0x8 ./ra/fsp/src/r_ioport/r_ioport.o
+                0x0000000000001598                R_IOPORT_Close
+ .text.R_IOPORT_PinRead
+                0x00000000000015a0       0x24 ./ra/fsp/src/r_ioport/r_ioport.o
+                0x00000000000015a0                R_IOPORT_PinRead
+ .text.R_IOPORT_PortRead
+                0x00000000000015c4       0x18 ./ra/fsp/src/r_ioport/r_ioport.o
+                0x00000000000015c4                R_IOPORT_PortRead
+ .text.R_IOPORT_PortWrite
+                0x00000000000015dc       0x20 ./ra/fsp/src/r_ioport/r_ioport.o
+                0x00000000000015dc                R_IOPORT_PortWrite
+ .text.R_IOPORT_PinWrite
+                0x00000000000015fc       0x28 ./ra/fsp/src/r_ioport/r_ioport.o
+                0x00000000000015fc                R_IOPORT_PinWrite
+ .text.R_IOPORT_PortDirectionSet
+                0x0000000000001624       0x24 ./ra/fsp/src/r_ioport/r_ioport.o
+                0x0000000000001624                R_IOPORT_PortDirectionSet
+ .text.R_IOPORT_PortEventInputRead
+                0x0000000000001648       0x18 ./ra/fsp/src/r_ioport/r_ioport.o
+                0x0000000000001648                R_IOPORT_PortEventInputRead
+ .text.R_IOPORT_PinEventInputRead
+                0x0000000000001660       0x2c ./ra/fsp/src/r_ioport/r_ioport.o
+                0x0000000000001660                R_IOPORT_PinEventInputRead
+ .text.R_IOPORT_PortEventOutputWrite
+                0x000000000000168c       0x20 ./ra/fsp/src/r_ioport/r_ioport.o
+                0x000000000000168c                R_IOPORT_PortEventOutputWrite
+ .text.R_IOPORT_PinEventOutputWrite
+                0x00000000000016ac       0x4c ./ra/fsp/src/r_ioport/r_ioport.o
+                0x00000000000016ac                R_IOPORT_PinEventOutputWrite
+ .text.r_ioport_pins_config
+                0x00000000000016f8       0xf8 ./ra/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_Open
+                0x00000000000017f0       0x18 ./ra/fsp/src/r_ioport/r_ioport.o
+                0x00000000000017f0                R_IOPORT_Open
+ .text.R_IOPORT_PinsCfg
+                0x0000000000001808        0xc ./ra/fsp/src/r_ioport/r_ioport.o
+                0x0000000000001808                R_IOPORT_PinsCfg
+ .text.R_IOPORT_PinCfg
+                0x0000000000001814       0xa0 ./ra/fsp/src/r_ioport/r_ioport.o
+                0x0000000000001814                R_IOPORT_PinCfg
+ .text.R_ADC_ScanStart
+                0x00000000000018b4        0xc ./ra/fsp/src/r_adc/r_adc.o
+                0x00000000000018b4                R_ADC_ScanStart
+ .text.R_ADC_Read
+                0x00000000000018c0       0x10 ./ra/fsp/src/r_adc/r_adc.o
+                0x00000000000018c0                R_ADC_Read
+ .text.r_adc_call_callback
+                0x00000000000018d0       0x3c ./ra/fsp/src/r_adc/r_adc.o
+ .text.r_adc_scan_end_common_isr
+                0x000000000000190c       0x60 ./ra/fsp/src/r_adc/r_adc.o
+ .text.r_adc_irq_enable.part.0
+                0x000000000000196c       0x8c ./ra/fsp/src/r_adc/r_adc.o
+ .text.R_ADC_Open
+                0x00000000000019f8      0x170 ./ra/fsp/src/r_adc/r_adc.o
+                0x00000000000019f8                R_ADC_Open
+ .text.R_ADC_ScanCfg
+                0x0000000000001b68      0x240 ./ra/fsp/src/r_adc/r_adc.o
+                0x0000000000001b68                R_ADC_ScanCfg
+ .text.adc_scan_end_isr
+                0x0000000000001da8        0xc ./ra/fsp/src/r_adc/r_adc.o
+                0x0000000000001da8                adc_scan_end_isr
+ .text.adc_window_compare_isr
+                0x0000000000001db4      0x140 ./ra/fsp/src/r_adc/r_adc.o
+                0x0000000000001db4                adc_window_compare_isr
+ .text.SystemCoreClockUpdate
+                0x0000000000001ef4       0x2c ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+                0x0000000000001ef4                SystemCoreClockUpdate
+ .text.bsp_clock_init
+                0x0000000000001f20      0x140 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+                0x0000000000001f20                bsp_clock_init
+ .text.bsp_init_internal
+                0x0000000000002060        0x4 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+                0x0000000000002060                bsp_init
+                0x0000000000002060                bsp_init_internal
+ .text.bsp_prv_software_delay_loop
+                0x0000000000002064        0x8 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+                0x0000000000002064                bsp_prv_software_delay_loop
+ .text.R_BSP_SoftwareDelay
+                0x000000000000206c       0x5c ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+                0x000000000000206c                R_BSP_SoftwareDelay
+ .text.NMI_Handler
+                0x00000000000020c8       0x48 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+                0x00000000000020c8                NMI_Handler
+ .text.bsp_irq_cfg
+                0x0000000000002110       0x28 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+                0x0000000000002110                bsp_irq_cfg
+ .text.R_BSP_RegisterProtectEnable
+                0x0000000000002138       0x54 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+                0x0000000000002138                R_BSP_RegisterProtectEnable
+ .text.R_BSP_RegisterProtectDisable
+                0x000000000000218c       0x4c ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+                0x000000000000218c                R_BSP_RegisterProtectDisable
+ .text.Default_Handler
+                0x00000000000021d8        0x4 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x00000000000021d8                DebugMon_Handler
+                0x00000000000021d8                HardFault_Handler
+                0x00000000000021d8                SysTick_Handler
+                0x00000000000021d8                PendSV_Handler
+                0x00000000000021d8                UsageFault_Handler
+                0x00000000000021d8                SecureFault_Handler
+                0x00000000000021d8                Default_Handler
+                0x00000000000021d8                MemManage_Handler
+                0x00000000000021d8                SVC_Handler
+                0x00000000000021d8                BusFault_Handler
+ .text.Reset_Handler
+                0x00000000000021dc        0xc ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x00000000000021dc                Reset_Handler
+ .text.SystemInit
+                0x00000000000021e8      0x140 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x00000000000021e8                SystemInit
+ .text          0x0000000000002328       0x3c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_clzsi2.o)
+                0x0000000000002328                __clzsi2
+ .text          0x0000000000002364       0x5c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_muldi3.o)
+                0x0000000000002364                __aeabi_lmul
+                0x0000000000002364                __muldi3
+ .text          0x00000000000023c0      0x250 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(mulsf3.o)
+                0x00000000000023c0                __aeabi_fmul
+ .text          0x0000000000002610      0x358 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(subsf3.o)
+                0x0000000000002610                __aeabi_fsub
+ .text          0x0000000000002968       0x40 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(fixsfsi.o)
+                0x0000000000002968                __aeabi_f2iz
+ .text          0x00000000000029a8       0x98 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(floatsisf.o)
+                0x00000000000029a8                __aeabi_i2f
+ .text.memcpy   0x0000000000002a40       0x12 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+                0x0000000000002a40                memcpy
+ .text.memset   0x0000000000002a52       0x10 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-memset.o)
+                0x0000000000002a52                memset
+ *(.version)
+ *fill*         0x0000000000002a62        0x2 ff
+ .version       0x0000000000002a64       0x50 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ *(.init)
+ .init          0x0000000000002ab4        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crti.o
+                0x0000000000002ab4                _init
+ .init          0x0000000000002ab8        0x8 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtn.o
+ *(.fini)
+ .fini          0x0000000000002ac0        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crti.o
+                0x0000000000002ac0                _fini
+ .fini          0x0000000000002ac4        0x8 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata._DoInit.str1.4
+                0x0000000000002acc        0x9 ./src/RTT/SEGGER_RTT.o
+ *fill*         0x0000000000002ad5        0x3 ff
+ .rodata._aInitStr.0
+                0x0000000000002ad8       0x11 ./src/RTT/SEGGER_RTT.o
+ *fill*         0x0000000000002ae9        0x3 ff
+ .rodata.SEGGER_RTT_vprintf
+                0x0000000000002aec       0x84 ./src/RTT/SEGGER_RTT_printf.o
+ .rodata._aV2C.0
+                0x0000000000002b70       0x10 ./src/RTT/SEGGER_RTT_printf.o
+ .rodata.print_string.str1.4
+                0x0000000000002b80        0x3 ./src/basic_io.o
+ *fill*         0x0000000000002b83        0x1 ff
+ .rodata.print_string_and_number.str1.4
+                0x0000000000002b84        0x9 ./src/basic_io.o
+ *fill*         0x0000000000002b8d        0x3 ff
+ .rodata.hal_entry.str1.4
+                0x0000000000002b90       0xf6 ./src/hal_entry.o
+ *fill*         0x0000000000002c86        0x2 ff
+ .rodata.g_ioport
+                0x0000000000002c88        0xc ./ra_gen/common_data.o
+                0x0000000000002c88                g_ioport
+ .rodata.g_adc0_cfg
+                0x0000000000002c94       0x18 ./ra_gen/hal_data.o
+                0x0000000000002c94                g_adc0_cfg
+ .rodata.g_adc0_cfg_extend
+                0x0000000000002cac        0xa ./ra_gen/hal_data.o
+                0x0000000000002cac                g_adc0_cfg_extend
+ *fill*         0x0000000000002cb6        0x2 ff
+ .rodata.g_adc0_channel_cfg
+                0x0000000000002cb8       0x14 ./ra_gen/hal_data.o
+                0x0000000000002cb8                g_adc0_channel_cfg
+ .rodata.g_uart0_cfg
+                0x0000000000002ccc       0x20 ./ra_gen/hal_data.o
+                0x0000000000002ccc                g_uart0_cfg
+ .rodata.g_uart0_cfg_extend
+                0x0000000000002cec       0x14 ./ra_gen/hal_data.o
+                0x0000000000002cec                g_uart0_cfg_extend
+ .rodata.g_bsp_pin_cfg
+                0x0000000000002d00        0x8 ./ra_gen/pin_data.o
+                0x0000000000002d00                g_bsp_pin_cfg
+ .rodata.g_bsp_pin_cfg_data
+                0x0000000000002d08       0x80 ./ra_gen/pin_data.o
+                0x0000000000002d08                g_bsp_pin_cfg_data
+ .rodata.g_interrupt_event_link_select
+                0x0000000000002d88       0x20 ./ra_gen/vector_data.o
+                0x0000000000002d88                g_interrupt_event_link_select
+ .rodata.g_ioport_on_ioport
+                0x0000000000002da8       0x34 ./ra/fsp/src/r_ioport/r_ioport.o
+                0x0000000000002da8                g_ioport_on_ioport
+ .rodata.adc_elc_trigger_lut
+                0x0000000000002ddc        0xc ./ra/fsp/src/r_adc/r_adc.o
+ .rodata.g_prcr_masks
+                0x0000000000002de8        0x8 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .rodata        0x0000000000002df0       0x40 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(mulsf3.o)
+                0x0000000000002e30                __usb_dev_descriptor_start_fs = .
+ *(.usb_device_desc_fs*)
+                0x0000000000002e30                __usb_cfg_descriptor_start_fs = .
+ *(.usb_config_desc_fs*)
+                0x0000000000002e30                __usb_interface_descriptor_start_fs = .
+ *(.usb_interface_desc_fs*)
+                0x0000000000002e30                __usb_descriptor_end_fs = .
+                0x0000000000002e30                __usb_dev_descriptor_start_hs = .
+ *(.usb_device_desc_hs*)
+                0x0000000000002e30                __usb_cfg_descriptor_start_hs = .
+ *(.usb_config_desc_hs*)
+                0x0000000000002e30                __usb_interface_descriptor_start_hs = .
+ *(.usb_interface_desc_hs*)
+                0x0000000000002e30                __usb_descriptor_end_hs = .
+ *(.eh_frame*)
+ .eh_frame      0x0000000000002e30        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+ .eh_frame      0x0000000000002e30        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtend.o
+                0x0000000000002e34                __ROM_End = .
+                0x00000000000000c0                __Vectors_Size = (__Vectors_End - __Vectors)
+
+.glue_7         0x0000000000002e34        0x0
+ .glue_7        0x0000000000002e34        0x0 linker stubs
+
+.glue_7t        0x0000000000002e34        0x0
+ .glue_7t       0x0000000000002e34        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000002e34        0x0
+ .vfp11_veneer  0x0000000000002e34        0x0 linker stubs
+
+.v4_bx          0x0000000000002e34        0x0
+ .v4_bx         0x0000000000002e34        0x0 linker stubs
+
+.iplt           0x0000000000002e34        0x0
+ .iplt          0x0000000000002e34        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000000000002e34                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0000000000002e34                __exidx_end = .
+                0x0000000000002e34                __etext = .
+                0x0000000020000000                __tz_RAM_S = ORIGIN (RAM)
+
+.fsp_dtc_vector_table
+                0x0000000020000000        0x0
+                0x0000000020000000                . = ORIGIN (RAM)
+ *(.fsp_dtc_vector_table)
+
+.data           0x0000000020000000        0xc load address 0x0000000000002e34
+                0x0000000020000000                __data_start__ = .
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                __Code_In_RAM_Start = .
+ *(.code_in_ram*)
+                0x0000000020000000                __Code_In_RAM_End = .
+ *(vtable)
+ *(.data.*)
+ .data.g_uart0_baud_setting
+                0x0000000020000000        0x4 ./ra_gen/hal_data.o
+                0x0000000020000000                g_uart0_baud_setting
+ *(.data)
+                0x0000000020000004                . = ALIGN (0x4)
+                0x0000000020000004                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x0000000020000004                PROVIDE (__preinit_array_end = .)
+                0x0000000020000004                . = ALIGN (0x4)
+                0x0000000020000004                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+ .init_array    0x0000000020000004        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+                0x0000000020000008                PROVIDE (__init_array_end = .)
+                0x0000000020000008                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x0000000020000008        0x4 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+ *(.jcr*)
+                0x000000002000000c                . = ALIGN (0x4)
+                0x000000002000000c                __data_end__ = .
+                0x0000000000002e40                __dtcm_data_init_start = ((__etext + __data_end__) - __data_start__)
+
+.igot.plt       0x000000002000000c        0x0 load address 0x0000000000002e40
+ .igot.plt      0x000000002000000c        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+
+.dtcm_data      0x0000000000000000        0x0 load address 0x0000000000002e40
+                0x0000000000000000                __tz_DTCM_S = ABSOLUTE (DTCM_START)
+                0x0000000000000000                __dtcm_data_start__ = .
+ *(.dtcm_data*)
+                0x0000000000000000                __dtcm_data_end__ = .
+
+.dtcm_noinit    0x0000000000000000        0x0 load address 0x0000000000002e40
+                0x0000000000000000                __dtcm_noinit_start = .
+ *(.dtcm_noinit*)
+                0x0000000000000000                __dtcm_noinit_end = .
+                0x0000000000000000                __tz_DTCM_N = DEFINED (DTCM_NS_START)?ABSOLUTE (DTCM_NS_START):ALIGN (__dtcm_noinit_end, 0x2000)
+                0x0000000000002e40                DATA_END = (LOADADDR (.data) + SIZEOF (.data))
+                0x0000000000003000                SGSTUBS_LOC = (DEFINED (PROJECT_SECURE) && DEFINED (FLASH_NSC_START))?ABSOLUTE (FLASH_NSC_START):ALIGN (DATA_END, 0x400)
+
+.gnu.sgstubs    0x0000000000003000        0x0
+                0x0000000000003000                __tz_FLASH_C = DEFINED (FLASH_NSC_START)?ABSOLUTE (FLASH_NSC_START):__RESERVE_NS_RAM?ABSOLUTE ((FLASH_START + FLASH_LENGTH)):ALIGN (0x400)
+                0x0000000000003000                _start_sg = .
+ *(.gnu.sgstubs*)
+                0x0000000000003000                . = ALIGN (0x20)
+                0x0000000000003000                _end_sg = .
+                0x0000000000008000                __tz_FLASH_N = DEFINED (FLASH_NS_START)?ABSOLUTE (FLASH_NS_START):__RESERVE_NS_RAM?ABSOLUTE ((FLASH_START + FLASH_LENGTH)):(FLASH_LENGTH < 0x8000)?FLASH_LENGTH:ALIGN (0x8000)
+                0x0000000000008000                FLASH_NS_IMAGE_START = DEFINED (FLASH_NS_IMAGE_START)?FLASH_NS_IMAGE_START:__tz_FLASH_N
+                0x0000000060000000                __tz_QSPI_FLASH_S = ORIGIN (QSPI_FLASH)
+
+.qspi_flash     0x0000000060000000        0x0
+                0x0000000060000000                __qspi_flash_start__ = .
+ *(.qspi_flash*)
+ *(.code_in_qspi*)
+                0x0000000060000000                __qspi_flash_end__ = .
+                0x0000000000000000                __qspi_flash_code_size__ = (__qspi_flash_end__ - __qspi_flash_start__)
+                0x0000000000002e40                __qspi_flash_code_addr__ = (__etext + (__data_end__ - __data_start__))
+
+.qspi_non_retentive
+                0x0000000060000000        0x0 load address 0x0000000000002e40
+                0x0000000060000000                __qspi_non_retentive_start__ = .
+ *(.qspi_non_retentive*)
+                0x0000000060000000                __qspi_non_retentive_end__ = .
+                0x0000000000000000                __qspi_non_retentive_size__ = (__qspi_non_retentive_end__ - __qspi_non_retentive_start__)
+                0x0000000004000000                __qspi_region_max_size__ = 0x4000000
+                0x0000000060000000                __qspi_region_start_address__ = __qspi_flash_start__
+                0x0000000064000000                __qspi_region_end_address__ = (__qspi_flash_start__ + __qspi_region_max_size__)
+                0x0000000060000000                __tz_QSPI_FLASH_N = __qspi_non_retentive_end__
+
+.OSPI_DEVICE_0_NO_LOAD
+                0x0000000080020000        0x0
+                0x0000000080020000                . = ALIGN (0x4)
+                0x0000000080020000                __ospi_device_0_start__ = .
+ *(.ospi_device_0_no_load*)
+                0x0000000080020000                . = ALIGN (0x4)
+                0x0000000080020000                __ospi_device_0_end__ = .
+
+.OSPI_DEVICE_1_NO_LOAD
+                0x0000000080030000        0x0
+                0x0000000080030000                . = ALIGN (0x4)
+                0x0000000080030000                __ospi_device_1_start__ = .
+ *(.ospi_device_1_no_load*)
+                0x0000000080030000                . = ALIGN (0x4)
+                0x0000000080030000                __ospi_device_1_end__ = .
+                0x0000000080020000                __tz_OSPI_DEVICE_0_S = ORIGIN (OSPI_DEVICE_0)
+
+.OSPI_DEVICE_0  0x0000000080020000        0x0
+                0x0000000080020000                __ospi_device_0_start__ = .
+ *(.ospi_device_0*)
+ *(.code_in_ospi_device_0*)
+                0x0000000080020000                __ospi_device_0_end__ = .
+                0x0000000000000000                __ospi_device_0_code_size__ = (__ospi_device_0_end__ - __ospi_device_0_start__)
+                0x0000000000002e40                __ospi_device_0_code_addr__ = (__etext + (__data_end__ - __data_start__))
+
+.ospi_device_0_non_retentive
+                0x0000000080020000        0x0 load address 0x0000000000002e40
+                0x0000000080020000                __ospi_device_0_non_retentive_start__ = .
+ *(.ospi_device_0_non_retentive*)
+                0x0000000080020000                __ospi_device_0_non_retentive_end__ = .
+                0x0000000000000000                __ospi_device_0_non_retentive_size__ = (__ospi_device_0_non_retentive_end__ - __ospi_device_0_non_retentive_start__)
+                0x0000000008000000                __ospi_device_0_region_max_size__ = 0x8000000
+                0x0000000080020000                __ospi_device_0_region_start_address__ = __ospi_device_0_start__
+                0x0000000088020000                __ospi_device_0_region_end_address__ = (__ospi_device_0_start__ + __ospi_device_0_region_max_size__)
+                0x0000000080020000                __tz_OSPI_DEVICE_0_N = __ospi_device_0_non_retentive_end__
+                0x0000000080030000                __tz_OSPI_DEVICE_1_S = ORIGIN (OSPI_DEVICE_1)
+
+.OSPI_DEVICE_1  0x0000000080030000        0x0
+                0x0000000080030000                __ospi_device_1_start__ = .
+ *(.ospi_device_1*)
+ *(.code_in_ospi_device_1*)
+                0x0000000080030000                __ospi_device_1_end__ = .
+                0x0000000000000000                __ospi_device_1_code_size__ = (__ospi_device_1_end__ - __ospi_device_1_start__)
+                0x0000000000002e40                __ospi_device_1_code_addr__ = (__etext + (__data_end__ - __data_start__))
+
+.ospi_device_1_non_retentive
+                0x0000000080030000        0x0 load address 0x0000000000002e40
+                0x0000000080030000                __ospi_device_1_non_retentive_start__ = .
+ *(.ospi_device_1_non_retentive*)
+                0x0000000080030000                __ospi_device_1_non_retentive_end__ = .
+                0x0000000000000000                __ospi_device_1_non_retentive_size__ = (__ospi_device_1_non_retentive_end__ - __ospi_device_1_non_retentive_start__)
+                0x0000000010000000                __ospi_device_1_region_max_size__ = 0x10000000
+                0x0000000080030000                __ospi_device_1_region_start_address__ = __ospi_device_1_start__
+                0x0000000090030000                __ospi_device_1_region_end_address__ = (__ospi_device_1_start__ + __ospi_device_1_region_max_size__)
+                0x0000000080030000                __tz_OSPI_DEVICE_1_N = __ospi_device_1_non_retentive_end__
+
+.noinit         0x000000002000000c       0x14
+                0x000000002000000c                . = ALIGN (0x4)
+                0x000000002000000c                __noinit_start = .
+ *(.noinit*)
+ .noinit        0x000000002000000c       0x14 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+                0x0000000020000020                . = ALIGN (0x8)
+ *(.heap.*)
+                0x0000000020000020                __noinit_end = .
+
+.bss            0x0000000020000020      0xa34
+                0x0000000020000020                . = ALIGN (0x4)
+                0x0000000020000020                __bss_start__ = .
+ *(.bss*)
+ .bss           0x0000000020000020       0x1c /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+ .bss._SEGGER_RTT
+                0x000000002000003c       0xa8 ./src/RTT/SEGGER_RTT.o
+                0x000000002000003c                _SEGGER_RTT
+ .bss._acDownBuffer
+                0x00000000200000e4       0x10 ./src/RTT/SEGGER_RTT.o
+ .bss._acUpBuffer
+                0x00000000200000f4      0x400 ./src/RTT/SEGGER_RTT.o
+ .bss.adc_volt  0x00000000200004f4        0x4 ./src/hal_entry.o
+                0x00000000200004f4                adc_volt
+ .bss.channel0_conversion_result
+                0x00000000200004f8        0x2 ./src/hal_entry.o
+ *fill*         0x00000000200004fa        0x2 
+ .bss.err       0x00000000200004fc        0x4 ./src/hal_entry.o
+                0x00000000200004fc                err
+ .bss.g_dest    0x0000000020000500      0x200 ./src/hal_entry.o
+                0x0000000020000500                g_dest
+ .bss.g_out_of_band_index
+                0x0000000020000700        0x4 ./src/hal_entry.o
+                0x0000000020000700                g_out_of_band_index
+ .bss.g_out_of_band_received
+                0x0000000020000704       0x10 ./src/hal_entry.o
+                0x0000000020000704                g_out_of_band_received
+ .bss.g_receive_complete
+                0x0000000020000714        0x4 ./src/hal_entry.o
+                0x0000000020000714                g_receive_complete
+ .bss.g_src     0x0000000020000718      0x200 ./src/hal_entry.o
+                0x0000000020000718                g_src
+ .bss.g_transfer_complete
+                0x0000000020000918        0x4 ./src/hal_entry.o
+                0x0000000020000918                g_transfer_complete
+ .bss.scan_complete_flag
+                0x000000002000091c        0x1 ./src/hal_entry.o
+                0x000000002000091c                scan_complete_flag
+ *fill*         0x000000002000091d        0x3 
+ .bss.volt_str  0x0000000020000920        0x5 ./src/hal_entry.o
+                0x0000000020000920                volt_str
+ *fill*         0x0000000020000925        0x3 
+ .bss.g_ioport_ctrl
+                0x0000000020000928        0x8 ./ra_gen/common_data.o
+                0x0000000020000928                g_ioport_ctrl
+ .bss.g_adc0_ctrl
+                0x0000000020000930       0x24 ./ra_gen/hal_data.o
+                0x0000000020000930                g_adc0_ctrl
+ .bss.g_uart0_ctrl
+                0x0000000020000954       0x30 ./ra_gen/hal_data.o
+                0x0000000020000954                g_uart0_ctrl
+ .bss.g_bsp_group_irq_sources
+                0x0000000020000984       0x40 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+                0x0000000020000984                g_bsp_group_irq_sources
+ .bss.g_protect_pfswe_counter
+                0x00000000200009c4        0x4 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+                0x00000000200009c4                g_protect_pfswe_counter
+ .bss.gp_renesas_isr_context
+                0x00000000200009c8       0x80 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+                0x00000000200009c8                gp_renesas_isr_context
+ .bss.g_protect_counters
+                0x0000000020000a48        0x8 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+                0x0000000020000a48                g_protect_counters
+ .bss.SystemCoreClock
+                0x0000000020000a50        0x4 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x0000000020000a50                SystemCoreClock
+ *(COMMON)
+                0x0000000020000a54                . = ALIGN (0x4)
+                0x0000000020000a54                __bss_end__ = .
+
+.heap           0x0000000020000a54        0x4
+                0x0000000020000a58                . = ALIGN (0x8)
+ *fill*         0x0000000020000a54        0x4 
+                0x0000000020000a58                __HeapBase = .
+ *(.heap)
+                0x0000000020000a58                __HeapLimit = .
+
+.stack_dummy    0x0000000020000a58      0x400
+                0x0000000020000a58                . = ALIGN (0x8)
+                0x0000000020000a58                __StackLimit = .
+ *(.stack)
+ .stack         0x0000000020000a58      0x400 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x0000000020000e58                __StackTop = .
+ *(.stack*)
+                0x0000000020000e58                __StackTopAll = .
+                0x0000000020000e58                PROVIDE (__stack = __StackTopAll)
+                0x0000000020000e58                __RAM_segment_used_end__ = ALIGN (__StackTopAll, 0x4)
+                0x0000000020001000                __tz_RAM_C = DEFINED (RAM_NSC_START)?ABSOLUTE ((RAM_NSC_START - RAM_NS_BUFFER_BLOCK_LENGTH)):__RESERVE_NS_RAM?ABSOLUTE (RAM_NS_BUFFER_BLOCK_START):ALIGN (__RAM_segment_used_end__, 0x400)
+                0x0000000020002000                __tz_RAM_N = DEFINED (RAM_NS_START)?ABSOLUTE ((RAM_NS_START - RAM_NS_BUFFER_BLOCK_LENGTH)):__RESERVE_NS_RAM?ABSOLUTE (RAM_NS_BUFFER_BLOCK_START):ALIGN (__tz_RAM_C, 0x2000)
+
+.ns_buffer      0x0000000020000e58        0x0
+                0x0000000020000e58                . = __RESERVE_NS_RAM?ABSOLUTE ((RAM_NS_BUFFER_START & 0xffffffe0)):.
+ *(.ns_buffer*)
+
+.data_flash     0x0000000040100000        0x0
+                0x0000000040100000                . = ORIGIN (DATA_FLASH)
+                0x0000000040100000                __tz_DATA_FLASH_S = .
+                0x0000000040100000                __Data_Flash_Start = .
+ *(.data_flash*)
+                0x0000000040100000                __Data_Flash_End = .
+                0x0000000040100000                __tz_DATA_FLASH_N = DEFINED (DATA_FLASH_NS_START)?ABSOLUTE (DATA_FLASH_NS_START):__RESERVE_NS_RAM?ABSOLUTE ((DATA_FLASH_START + DATA_FLASH_LENGTH)):ALIGN (0x400)
+                0x0000000080010000                __tz_SDRAM_S = ORIGIN (SDRAM)
+
+.sdram          0x0000000080010000        0x0
+                0x0000000080010000                __SDRAM_Start = .
+ *(.sdram*)
+ *(.frame*)
+                0x0000000080010000                __SDRAM_End = .
+                0x0000000080010000                __tz_SDRAM_N = __SDRAM_End
+                0x0000000001010018                __tz_ID_CODE_S = ORIGIN (ID_CODE)
+
+.id_code        0x0000000001010018       0x1c
+                0x0000000001010018                __ID_Code_Start = .
+ *(.id_code*)
+ .id_code       0x0000000001010018       0x1c ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+                0x0000000001010034                __ID_Code_End = .
+                0x0000000001010034                __tz_ID_CODE_N = __ID_Code_End
+                0x0000000000000000                __tz_OPTION_SETTING_S = ORIGIN (OPTION_SETTING_OFS)
+
+.rel.dyn        0x0000000001010034        0x0
+ .rel.iplt      0x0000000001010034        0x0 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+
+.option_setting_ofs
+                0x0000000000000000        0x0
+                0x0000000000000000                __OPTION_SETTING_OFS_Start = .
+ *(.option_setting_ofs0)
+                0x0000000000000000                . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_OFS_Start + 0x4):__OPTION_SETTING_OFS_Start
+ *(.option_setting_ofs2)
+                0x0000000000000000                . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_OFS_Start + 0x10):__OPTION_SETTING_OFS_Start
+ *(.option_setting_dualsel)
+                0x0000000000000000                __OPTION_SETTING_OFS_End = .
+
+.option_setting_sas
+                0x0000000000000034        0x0
+                0x0000000000000034                __OPTION_SETTING_SAS_Start = .
+ *(.option_setting_sas)
+                0x0000000000000034                __OPTION_SETTING_SAS_End = .
+                0x0000000000000080                __tz_OPTION_SETTING_N = ABSOLUTE (OPTION_SETTING_START_NS)
+
+.option_setting_ns
+                0x0000000000000000        0x0
+                0x0000000000000000                __OPTION_SETTING_NS_Start = .
+ *(.option_setting_ofs1)
+                0x0000000000000000                . = USE_OPTION_SETTING_NS?(__OPTION_SETTING_NS_Start + 0x4):__OPTION_SETTING_NS_Start
+ *(.option_setting_ofs3)
+                0x0000000000000000                . = USE_OPTION_SETTING_NS?(__OPTION_SETTING_NS_Start + 0x10):__OPTION_SETTING_NS_Start
+ *(.option_setting_banksel)
+                0x0000000000000000                . = USE_OPTION_SETTING_NS?(__OPTION_SETTING_NS_Start + 0x40):__OPTION_SETTING_NS_Start
+ *(.option_setting_bps0)
+                0x0000000000000000                . = USE_OPTION_SETTING_NS?(__OPTION_SETTING_NS_Start + 0x44):__OPTION_SETTING_NS_Start
+ *(.option_setting_bps1)
+                0x0000000000000000                . = USE_OPTION_SETTING_NS?(__OPTION_SETTING_NS_Start + 0x48):__OPTION_SETTING_NS_Start
+ *(.option_setting_bps2)
+                0x0000000000000000                . = USE_OPTION_SETTING_NS?(__OPTION_SETTING_NS_Start + 0x4c):__OPTION_SETTING_NS_Start
+ *(.option_setting_bps3)
+                0x0000000000000000                . = USE_OPTION_SETTING_NS?(__OPTION_SETTING_NS_Start + 0x60):__OPTION_SETTING_NS_Start
+ *(.option_setting_pbps0)
+                0x0000000000000000                . = USE_OPTION_SETTING_NS?(__OPTION_SETTING_NS_Start + 0x64):__OPTION_SETTING_NS_Start
+ *(.option_setting_pbps1)
+                0x0000000000000000                . = USE_OPTION_SETTING_NS?(__OPTION_SETTING_NS_Start + 0x68):__OPTION_SETTING_NS_Start
+ *(.option_setting_pbps2)
+                0x0000000000000000                . = USE_OPTION_SETTING_NS?(__OPTION_SETTING_NS_Start + 0x6c):__OPTION_SETTING_NS_Start
+ *(.option_setting_pbps3)
+                0x0000000000000000                __OPTION_SETTING_NS_End = .
+                0x0000000080000000                __tz_OPTION_SETTING_S_S = ORIGIN (OPTION_SETTING_S)
+
+.option_setting_s
+                0x0000000080000000        0x0
+                0x0000000080000000                __OPTION_SETTING_S_Start = .
+ *(.option_setting_ofs1_sec)
+                0x0000000080000000                . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x4):__OPTION_SETTING_S_Start
+ *(.option_setting_ofs3_sec)
+                0x0000000080000000                . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x10):__OPTION_SETTING_S_Start
+ *(.option_setting_banksel_sec)
+                0x0000000080000000                . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x40):__OPTION_SETTING_S_Start
+ *(.option_setting_bps_sec0)
+                0x0000000080000000                . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x44):__OPTION_SETTING_S_Start
+ *(.option_setting_bps_sec1)
+                0x0000000080000000                . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x48):__OPTION_SETTING_S_Start
+ *(.option_setting_bps_sec2)
+                0x0000000080000000                . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x4c):__OPTION_SETTING_S_Start
+ *(.option_setting_bps_sec3)
+                0x0000000080000000                . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x60):__OPTION_SETTING_S_Start
+ *(.option_setting_pbps_sec0)
+                0x0000000080000000                . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x64):__OPTION_SETTING_S_Start
+ *(.option_setting_pbps_sec1)
+                0x0000000080000000                . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x68):__OPTION_SETTING_S_Start
+ *(.option_setting_pbps_sec2)
+                0x0000000080000000                . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x6c):__OPTION_SETTING_S_Start
+ *(.option_setting_pbps_sec3)
+                0x0000000080000000                . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x80):__OPTION_SETTING_S_Start
+ *(.option_setting_ofs1_sel)
+                0x0000000080000000                . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x84):__OPTION_SETTING_S_Start
+ *(.option_setting_ofs3_sel)
+                0x0000000080000000                . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x90):__OPTION_SETTING_S_Start
+ *(.option_setting_banksel_sel)
+                0x0000000080000000                . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0xc0):__OPTION_SETTING_S_Start
+ *(.option_setting_bps_sel0)
+                0x0000000080000000                . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0xc4):__OPTION_SETTING_S_Start
+ *(.option_setting_bps_sel1)
+                0x0000000080000000                . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0xc8):__OPTION_SETTING_S_Start
+ *(.option_setting_bps_sel2)
+                0x0000000080000000                . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0xcc):__OPTION_SETTING_S_Start
+ *(.option_setting_bps_sel3)
+                0x0000000080000000                __OPTION_SETTING_S_End = .
+                0x0000000080000000                __tz_OPTION_SETTING_S_N = __OPTION_SETTING_S_End
+OUTPUT(UART.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x0000000000000000       0x2c
+ .ARM.attributes
+                0x0000000000000000       0x22 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crti.o
+ .ARM.attributes
+                0x0000000000000022       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000000000000052       0x30 ./src/RTT/SEGGER_RTT.o
+ .ARM.attributes
+                0x0000000000000082       0x30 ./src/RTT/SEGGER_RTT_printf.o
+ .ARM.attributes
+                0x00000000000000b2       0x30 ./src/basic_io.o
+ .ARM.attributes
+                0x00000000000000e2       0x30 ./src/hal_entry.o
+ .ARM.attributes
+                0x0000000000000112       0x30 ./ra_gen/common_data.o
+ .ARM.attributes
+                0x0000000000000142       0x30 ./ra_gen/hal_data.o
+ .ARM.attributes
+                0x0000000000000172       0x30 ./ra_gen/main.o
+ .ARM.attributes
+                0x00000000000001a2       0x30 ./ra_gen/pin_data.o
+ .ARM.attributes
+                0x00000000000001d2       0x30 ./ra_gen/vector_data.o
+ .ARM.attributes
+                0x0000000000000202       0x30 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .ARM.attributes
+                0x0000000000000232       0x30 ./ra/fsp/src/r_ioport/r_ioport.o
+ .ARM.attributes
+                0x0000000000000262       0x30 ./ra/fsp/src/r_adc/r_adc.o
+ .ARM.attributes
+                0x0000000000000292       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .ARM.attributes
+                0x00000000000002c2       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .ARM.attributes
+                0x00000000000002f2       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .ARM.attributes
+                0x0000000000000322       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .ARM.attributes
+                0x0000000000000352       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .ARM.attributes
+                0x0000000000000382       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .ARM.attributes
+                0x00000000000003b2       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .ARM.attributes
+                0x00000000000003e2       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .ARM.attributes
+                0x0000000000000412       0x30 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .ARM.attributes
+                0x0000000000000442       0x30 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .ARM.attributes
+                0x0000000000000472       0x22 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x0000000000000494       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_muldi3.o)
+ .ARM.attributes
+                0x00000000000004c4       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(mulsf3.o)
+ .ARM.attributes
+                0x00000000000004f4       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(subsf3.o)
+ .ARM.attributes
+                0x0000000000000524       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(fixsfsi.o)
+ .ARM.attributes
+                0x0000000000000554       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(floatsisf.o)
+ .ARM.attributes
+                0x0000000000000584       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000000005b4       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000005e4       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtend.o
+ .ARM.attributes
+                0x0000000000000614       0x22 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtn.o
+
+.comment        0x0000000000000000       0x49
+ .comment       0x0000000000000000       0x49 ./src/RTT/SEGGER_RTT.o
+                                         0x4a (size before relaxing)
+ .comment       0x0000000000000049       0x4a ./src/RTT/SEGGER_RTT_printf.o
+ .comment       0x0000000000000049       0x4a ./src/basic_io.o
+ .comment       0x0000000000000049       0x4a ./src/hal_entry.o
+ .comment       0x0000000000000049       0x4a ./ra_gen/common_data.o
+ .comment       0x0000000000000049       0x4a ./ra_gen/hal_data.o
+ .comment       0x0000000000000049       0x4a ./ra_gen/main.o
+ .comment       0x0000000000000049       0x4a ./ra_gen/pin_data.o
+ .comment       0x0000000000000049       0x4a ./ra_gen/vector_data.o
+ .comment       0x0000000000000049       0x4a ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .comment       0x0000000000000049       0x4a ./ra/fsp/src/r_ioport/r_ioport.o
+ .comment       0x0000000000000049       0x4a ./ra/fsp/src/r_adc/r_adc.o
+ .comment       0x0000000000000049       0x4a ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .comment       0x0000000000000049       0x4a ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .comment       0x0000000000000049       0x4a ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .comment       0x0000000000000049       0x4a ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .comment       0x0000000000000049       0x4a ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .comment       0x0000000000000049       0x4a ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .comment       0x0000000000000049       0x4a ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .comment       0x0000000000000049       0x4a ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .comment       0x0000000000000049       0x4a ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .comment       0x0000000000000049       0x4a ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_info     0x0000000000000000    0x3838e
+ .debug_info    0x0000000000000000     0x2334 ./src/RTT/SEGGER_RTT.o
+ .debug_info    0x0000000000002334      0x70a ./src/RTT/SEGGER_RTT_printf.o
+ .debug_info    0x0000000000002a3e      0x1d1 ./src/basic_io.o
+ .debug_info    0x0000000000002c0f     0x799f ./src/hal_entry.o
+ .debug_info    0x000000000000a5ae     0x1207 ./ra_gen/common_data.o
+ .debug_info    0x000000000000b7b5     0x6f46 ./ra_gen/hal_data.o
+ .debug_info    0x00000000000126fb       0xaa ./ra_gen/main.o
+ .debug_info    0x00000000000127a5      0xa07 ./ra_gen/pin_data.o
+ .debug_info    0x00000000000131ac      0x4c8 ./ra_gen/vector_data.o
+ .debug_info    0x0000000000013674     0x9710 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .debug_info    0x000000000001cd84     0x2f78 ./ra/fsp/src/r_ioport/r_ioport.o
+ .debug_info    0x000000000001fcfc     0xab77 ./ra/fsp/src/r_adc/r_adc.o
+ .debug_info    0x000000000002a873     0x4edf ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_info    0x000000000002f752      0x916 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_info    0x0000000000030068      0x1e8 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_info    0x0000000000030250     0x13dc ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_info    0x000000000003162c       0xa3 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_info    0x00000000000316cf     0x1001 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_info    0x00000000000326d0     0x3cc4 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_info    0x0000000000036394       0xd6 ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .debug_info    0x000000000003646a      0x141 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_info    0x00000000000365ab     0x1de3 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_abbrev   0x0000000000000000     0x3161
+ .debug_abbrev  0x0000000000000000      0x36b ./src/RTT/SEGGER_RTT.o
+ .debug_abbrev  0x000000000000036b      0x27e ./src/RTT/SEGGER_RTT_printf.o
+ .debug_abbrev  0x00000000000005e9       0xac ./src/basic_io.o
+ .debug_abbrev  0x0000000000000695      0x463 ./src/hal_entry.o
+ .debug_abbrev  0x0000000000000af8      0x150 ./ra_gen/common_data.o
+ .debug_abbrev  0x0000000000000c48      0x2b3 ./ra_gen/hal_data.o
+ .debug_abbrev  0x0000000000000efb       0x66 ./ra_gen/main.o
+ .debug_abbrev  0x0000000000000f61       0xdc ./ra_gen/pin_data.o
+ .debug_abbrev  0x000000000000103d       0x9e ./ra_gen/vector_data.o
+ .debug_abbrev  0x00000000000010db      0x597 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .debug_abbrev  0x0000000000001672      0x3bb ./ra/fsp/src/r_ioport/r_ioport.o
+ .debug_abbrev  0x0000000000001a2d      0x5e8 ./ra/fsp/src/r_adc/r_adc.o
+ .debug_abbrev  0x0000000000002015      0x393 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_abbrev  0x00000000000023a8      0x172 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_abbrev  0x000000000000251a      0x10d ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_abbrev  0x0000000000002627      0x256 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_abbrev  0x000000000000287d       0x5e ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_abbrev  0x00000000000028db      0x1a6 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_abbrev  0x0000000000002a81      0x252 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_abbrev  0x0000000000002cd3       0x5f ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .debug_abbrev  0x0000000000002d32       0xe6 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_abbrev  0x0000000000002e18      0x349 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_loc      0x0000000000000000     0x854c
+ .debug_loc     0x0000000000000000     0x3473 ./src/RTT/SEGGER_RTT.o
+ .debug_loc     0x0000000000003473      0xae5 ./src/RTT/SEGGER_RTT_printf.o
+ .debug_loc     0x0000000000003f58       0xc8 ./src/basic_io.o
+ .debug_loc     0x0000000000004020      0x55b ./src/hal_entry.o
+ .debug_loc     0x000000000000457b     0x11d0 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .debug_loc     0x000000000000574b      0xed8 ./ra/fsp/src/r_ioport/r_ioport.o
+ .debug_loc     0x0000000000006623     0x17d6 ./ra/fsp/src/r_adc/r_adc.o
+ .debug_loc     0x0000000000007df9      0x294 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_loc     0x000000000000808d       0x25 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_loc     0x00000000000080b2      0x185 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_loc     0x0000000000008237       0xac ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_loc     0x00000000000082e3       0x3f ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_loc     0x0000000000008322      0x110 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_loc     0x0000000000008432      0x11a ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_aranges  0x0000000000000000      0x5f0
+ .debug_aranges
+                0x0000000000000000      0x130 ./src/RTT/SEGGER_RTT.o
+ .debug_aranges
+                0x0000000000000130       0x38 ./src/RTT/SEGGER_RTT_printf.o
+ .debug_aranges
+                0x0000000000000168       0x30 ./src/basic_io.o
+ .debug_aranges
+                0x0000000000000198       0x50 ./src/hal_entry.o
+ .debug_aranges
+                0x00000000000001e8       0x20 ./ra_gen/common_data.o
+ .debug_aranges
+                0x0000000000000208       0x20 ./ra_gen/hal_data.o
+ .debug_aranges
+                0x0000000000000228       0x20 ./ra_gen/main.o
+ .debug_aranges
+                0x0000000000000248       0x18 ./ra_gen/pin_data.o
+ .debug_aranges
+                0x0000000000000260       0x18 ./ra_gen/vector_data.o
+ .debug_aranges
+                0x0000000000000278       0x98 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .debug_aranges
+                0x0000000000000310       0x88 ./ra/fsp/src/r_ioport/r_ioport.o
+ .debug_aranges
+                0x0000000000000398       0xb8 ./ra/fsp/src/r_adc/r_adc.o
+ .debug_aranges
+                0x0000000000000450       0x58 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_aranges
+                0x00000000000004a8       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_aranges
+                0x00000000000004d8       0x28 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_aranges
+                0x0000000000000500       0x28 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_aranges
+                0x0000000000000528       0x18 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_aranges
+                0x0000000000000540       0x20 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_aranges
+                0x0000000000000560       0x28 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_aranges
+                0x0000000000000588       0x18 ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .debug_aranges
+                0x00000000000005a0       0x28 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_aranges
+                0x00000000000005c8       0x28 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_ranges   0x0000000000000000     0x1330
+ .debug_ranges  0x0000000000000000      0x598 ./src/RTT/SEGGER_RTT.o
+ .debug_ranges  0x0000000000000598       0x68 ./src/RTT/SEGGER_RTT_printf.o
+ .debug_ranges  0x0000000000000600       0x20 ./src/basic_io.o
+ .debug_ranges  0x0000000000000620       0xf8 ./src/hal_entry.o
+ .debug_ranges  0x0000000000000718       0x10 ./ra_gen/common_data.o
+ .debug_ranges  0x0000000000000728       0x10 ./ra_gen/hal_data.o
+ .debug_ranges  0x0000000000000738       0x10 ./ra_gen/main.o
+ .debug_ranges  0x0000000000000748      0x538 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .debug_ranges  0x0000000000000c80      0x1a8 ./ra/fsp/src/r_ioport/r_ioport.o
+ .debug_ranges  0x0000000000000e28      0x330 ./ra/fsp/src/r_adc/r_adc.o
+ .debug_ranges  0x0000000000001158       0xe8 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_ranges  0x0000000000001240       0x20 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_ranges  0x0000000000001260       0x18 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_ranges  0x0000000000001278       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_ranges  0x00000000000012a8       0x10 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_ranges  0x00000000000012b8       0x48 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_ranges  0x0000000000001300       0x18 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_ranges  0x0000000000001318       0x18 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_line     0x0000000000000000     0x8a0f
+ .debug_line    0x0000000000000000     0x1a90 ./src/RTT/SEGGER_RTT.o
+ .debug_line    0x0000000000001a90      0x78a ./src/RTT/SEGGER_RTT_printf.o
+ .debug_line    0x000000000000221a       0xbf ./src/basic_io.o
+ .debug_line    0x00000000000022d9      0x857 ./src/hal_entry.o
+ .debug_line    0x0000000000002b30      0x2c5 ./ra_gen/common_data.o
+ .debug_line    0x0000000000002df5      0x3be ./ra_gen/hal_data.o
+ .debug_line    0x00000000000031b3       0x5e ./ra_gen/main.o
+ .debug_line    0x0000000000003211      0x1d2 ./ra_gen/pin_data.o
+ .debug_line    0x00000000000033e3       0xfd ./ra_gen/vector_data.o
+ .debug_line    0x00000000000034e0     0x15d8 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .debug_line    0x0000000000004ab8      0xacf ./ra/fsp/src/r_ioport/r_ioport.o
+ .debug_line    0x0000000000005587     0x14b6 ./ra/fsp/src/r_adc/r_adc.o
+ .debug_line    0x0000000000006a3d      0x6ac ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_line    0x00000000000070e9      0x295 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_line    0x000000000000737e      0x2b3 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_line    0x0000000000007631      0x300 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_line    0x0000000000007931      0x19c ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_line    0x0000000000007acd      0x2ee ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_line    0x0000000000007dbb      0x3be ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_line    0x0000000000008179      0x153 ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .debug_line    0x00000000000082cc      0x220 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_line    0x00000000000084ec      0x523 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_str      0x0000000000000000     0xd61d
+ .debug_str     0x0000000000000000      0x657 ./src/RTT/SEGGER_RTT.o
+                                        0x6e1 (size before relaxing)
+ .debug_str     0x0000000000000657      0x119 ./src/RTT/SEGGER_RTT_printf.o
+                                        0x2dd (size before relaxing)
+ .debug_str     0x0000000000000770       0x43 ./src/basic_io.o
+                                        0x1e3 (size before relaxing)
+ .debug_str     0x00000000000007b3     0x5f92 ./src/hal_entry.o
+                                       0x62f3 (size before relaxing)
+ .debug_str     0x0000000000006745       0x47 ./ra_gen/common_data.o
+                                       0x3233 (size before relaxing)
+ .debug_str     0x000000000000678c     0x1eba ./ra_gen/hal_data.o
+                                       0x7874 (size before relaxing)
+ .debug_str     0x0000000000008646       0x16 ./ra_gen/main.o
+                                        0x197 (size before relaxing)
+ .debug_str     0x000000000000865c      0x648 ./ra_gen/pin_data.o
+                                       0x1d19 (size before relaxing)
+ .debug_str     0x0000000000008ca4      0xfeb ./ra_gen/vector_data.o
+                                       0x115c (size before relaxing)
+ .debug_str     0x0000000000009c8f     0x2064 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+                                       0x65e1 (size before relaxing)
+ .debug_str     0x000000000000bcf3      0x784 ./ra/fsp/src/r_ioport/r_ioport.o
+                                       0x3a2d (size before relaxing)
+ .debug_str     0x000000000000c477      0x618 ./ra/fsp/src/r_adc/r_adc.o
+                                       0x763e (size before relaxing)
+ .debug_str     0x000000000000ca8f      0x46c ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+                                       0x213b (size before relaxing)
+ .debug_str     0x000000000000cefb      0x10b ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+                                       0x1b47 (size before relaxing)
+ .debug_str     0x000000000000d006       0xb1 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+                                        0x2cd (size before relaxing)
+ .debug_str     0x000000000000d0b7      0x1de ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+                                       0x2052 (size before relaxing)
+ .debug_str     0x000000000000d295       0x23 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+                                        0x1c0 (size before relaxing)
+ .debug_str     0x000000000000d2b8       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+                                       0x15d8 (size before relaxing)
+ .debug_str     0x000000000000d2e8      0x12b ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+                                       0x1996 (size before relaxing)
+ .debug_str     0x000000000000d413       0x51 ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+                                        0x1d6 (size before relaxing)
+ .debug_str     0x000000000000d464       0x82 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                                        0x20a (size before relaxing)
+ .debug_str     0x000000000000d4e6      0x137 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                                        0xd18 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0xf1c
+ .debug_frame   0x0000000000000000      0x450 ./src/RTT/SEGGER_RTT.o
+ .debug_frame   0x0000000000000450       0x9c ./src/RTT/SEGGER_RTT_printf.o
+ .debug_frame   0x00000000000004ec       0x58 ./src/basic_io.o
+ .debug_frame   0x0000000000000544       0xc8 ./src/hal_entry.o
+ .debug_frame   0x000000000000060c       0x20 ./ra_gen/common_data.o
+ .debug_frame   0x000000000000062c       0x28 ./ra_gen/hal_data.o
+ .debug_frame   0x0000000000000654       0x28 ./ra_gen/main.o
+ .debug_frame   0x000000000000067c      0x1cc ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .debug_frame   0x0000000000000848      0x144 ./ra/fsp/src/r_ioport/r_ioport.o
+ .debug_frame   0x000000000000098c      0x1fc ./ra/fsp/src/r_adc/r_adc.o
+ .debug_frame   0x0000000000000b88       0xbc ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_frame   0x0000000000000c44       0x40 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_frame   0x0000000000000c84       0x3c ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_frame   0x0000000000000cc0       0x40 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_frame   0x0000000000000d00       0x20 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_frame   0x0000000000000d20       0x48 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_frame   0x0000000000000d68       0x38 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_frame   0x0000000000000da0       0x40 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .debug_frame   0x0000000000000de0       0x34 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(_muldi3.o)
+ .debug_frame   0x0000000000000e14       0x38 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(mulsf3.o)
+ .debug_frame   0x0000000000000e4c       0x38 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(subsf3.o)
+ .debug_frame   0x0000000000000e84       0x20 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(fixsfsi.o)
+ .debug_frame   0x0000000000000ea4       0x30 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/libgcc.a(floatsisf.o)
+ .debug_frame   0x0000000000000ed4       0x28 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000000efc       0x20 /opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/libg_nano.a(lib_a-memset.o)

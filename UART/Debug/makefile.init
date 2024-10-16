@@ -1,0 +1,11 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+arg1 = $(1)
+export PATH=/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/bin/:/opt/work/e2_studio_v2/eclipse/plugins/com.renesas.ide.exttools.gnumake.linux.x86_64_1.0.0.v20220121-1024/mk/:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+export TCINSTALL=/opt/work/e2_studio_v2/toolchains/gcc_arm/10_3_2021_10/gcc-arm-none-eabi-10.3-2021.10/
+export CWD=$(CURDIR)
+export TC_VERSION=10.3.1.20210824
+export PWD=$(CURDIR)
+export GCC_VERSION=10.3.1

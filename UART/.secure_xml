@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<raConfiguration version="7">
+  <generalSettings>
+    <option key="#Board#" value="board.custom"/>
+    <option key="CPU" value="RA2L1"/>
+    <option key="Core" value="CM23"/>
+    <option key="#TargetName#" value="R7FA2L1AB2DFL"/>
+    <option key="#TargetARCHITECTURE#" value="cortex-m23"/>
+    <option key="#DeviceCommand#" value="R7FA2L1AB"/>
+    <option key="#RTOS#" value="_none"/>
+    <option key="#pinconfiguration#" value="R7FA2L1AB2DFL.pincfg"/>
+    <option key="#FSPVersion#" value="4.2.0"/>
+    <option key="#SELECTED_TOOLCHAIN#" value="gcc-arm-embedded"/>
+    <option key="#ToolchainVersion#" value="10.3.1.20210824"/>
+  </generalSettings>
+  <raBspConfiguration/>
+  <raClockConfiguration>
+    <node id="board.clock.xtal.freq" mul="20000000" option="_edit"/>
+    <node id="board.clock.hoco.freq" option="board.clock.hoco.freq.48m"/>
+    <node id="board.clock.loco.freq" option="board.clock.loco.freq.32768"/>
+    <node id="board.clock.moco.freq" option="board.clock.moco.freq.8m"/>
+    <node id="board.clock.subclk.freq" option="board.clock.subclk.freq.32768"/>
+    <node id="board.clock.clock.source" option="board.clock.clock.source.hoco"/>
+    <node id="board.clock.iclk.div" option="board.clock.iclk.div.1"/>
+    <node id="board.clock.iclk.display" option="board.clock.iclk.display.value"/>
+    <node id="board.clock.pclkb.div" option="board.clock.pclkb.div.8"/>
+    <node id="board.clock.pclkb.display" option="board.clock.pclkb.display.value"/>
+    <node id="board.clock.pclkd.div" option="board.clock.pclkd.div.8"/>
+    <node id="board.clock.pclkd.display" option="board.clock.pclkd.display.value"/>
+    <node id="board.clock.clkout.source" option="board.clock.clkout.source.disabled"/>
+    <node id="board.clock.clkout.div" option="board.clock.clkout.div.1"/>
+    <node id="board.clock.clkout.display" option="board.clock.clkout.display.value"/>
+  </raClockConfiguration>
+  <raPinConfiguration>
+    <pincfg active="true" name="" symbol="">
+      <configSetting altId="adc0.an00.p000" configurationId="adc0.an00" isUsedByDriver="true"/>
+      <configSetting altId="analog0.vrefh0.p010" configurationId="analog0.vrefh0"/>
+      <configSetting altId="analog0.vrefl0.p011" configurationId="analog0.vrefl0"/>
+      <configSetting altId="debug0.swclk.p300" configurationId="debug0.swclk" isUsedByDriver="true"/>
+      <configSetting altId="debug0.swdio.p108" configurationId="debug0.swdio" isUsedByDriver="true"/>
+      <configSetting altId="p002.output.low" configurationId="p002"/>
+      <configSetting altId="p014.input" configurationId="p014"/>
+      <configSetting altId="p206.output.low" configurationId="p206"/>
+      <configSetting altId="p207.output.low" configurationId="p207"/>
+      <configSetting altId="p208.output.low" configurationId="p208"/>
+      <configSetting altId="p213.input" configurationId="p213"/>
+      <configSetting altId="p400.output.low" configurationId="p400"/>
+      <configSetting altId="p401.output.low" configurationId="p401"/>
+      <configSetting altId="p407.output.low" configurationId="p407"/>
+      <configSetting altId="p500.output.low" configurationId="p500"/>
+      <configSetting altId="sci3.rxd.p408" configurationId="sci3.rxd" isUsedByDriver="true"/>
+      <configSetting altId="sci3.txd.p409" configurationId="sci3.txd" isUsedByDriver="true"/>
+    </pincfg>
+  </raPinConfiguration>
+</raConfiguration>

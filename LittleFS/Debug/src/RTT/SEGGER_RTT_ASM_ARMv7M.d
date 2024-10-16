@@ -1,0 +1,4 @@
+src/RTT/SEGGER_RTT_ASM_ARMv7M.o: ../src/RTT/SEGGER_RTT_ASM_ARMv7M.S \
+ ../src/RTT/SEGGER_RTT.h ../src/RTT/SEGGER_RTT_Conf.h
+../src/RTT/SEGGER_RTT.h:
+../src/RTT/SEGGER_RTT_Conf.h:

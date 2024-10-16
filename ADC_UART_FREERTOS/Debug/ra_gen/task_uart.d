@@ -1,0 +1,141 @@
+ra_gen/task_uart.o: ../ra_gen/task_uart.c ../ra_gen/task_uart.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/bsp_api.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/fsp_common_api.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/fsp_version.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/bsp/bsp_cfg.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_gen/bsp_clock_cfg.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/bsp/bsp_mcu_family_cfg.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/bsp/bsp_mcu_device_pn_cfg.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/bsp/bsp_mcu_device_cfg.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/bsp/../../../ra/fsp/src/bsp/mcu/ra2l1/bsp_mcu_info.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/bsp/../../../ra/fsp/src/bsp/mcu/ra2l1/bsp_elc.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/bsp/../../../ra/fsp/src/bsp/mcu/ra2l1/bsp_icu.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/bsp/../../../ra/fsp/src/bsp/mcu/ra2l1/bsp_feature.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/bsp/../../../ra/fsp/src/bsp/mcu/ra2l1/bsp_power.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/bsp/board_cfg.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_arm_exceptions.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_gen/vector_data.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/cmsis/Device/RENESAS/Include/renesas.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/arm/CMSIS_5/CMSIS/Core/Include/cmsis_compiler.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/arm/CMSIS_5/CMSIS/Core/Include/cmsis_gcc.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/cmsis/Device/RENESAS/Include/R7FA2L1AB.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/arm/CMSIS_5/CMSIS/Core/Include/core_cm23.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/arm/CMSIS_5/CMSIS/Core/Include/cmsis_version.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/arm/CMSIS_5/CMSIS/Core/Include/cmsis_compiler.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/arm/CMSIS_5/CMSIS/Core/Include/mpu_armv8.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/cmsis/Device/RENESAS/Include/system.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/cmsis/Device/RENESAS/Include/system.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_common.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../inc/fsp_common_api.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_compiler_support.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_register_protection.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_irq.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_io.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_group_irq.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_clocks.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_module_stop.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_security.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../inc/fsp_features.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../inc/fsp_common_api.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../inc/../../fsp/src/bsp/mcu/all/bsp_compiler_support.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_delay.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_mcu_api.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/FreeRTOS.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/aws/FreeRTOSConfig.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/projdefs.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/portable.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/deprecated_definitions.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/src/rm_freertos_port/portmacro.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/mpu_wrappers.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/projdefs.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/mpu_wrappers.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/task.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/list.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/semphr.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/queue.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/task.h \
+ ../ra_gen/hal_data.h ../ra_gen/common_data.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/instances/r_ioport.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/r_ioport_api.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/bsp_api.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/r_ioport_cfg.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/bsp/bsp_pin_cfg.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/instances/r_sci_uart.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/r_uart_api.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/r_transfer_api.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/r_sci_uart_cfg.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/instances/r_adc.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/r_adc_cfg.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/r_adc_api.h \
+ /opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/r_elc_api.h
+../ra_gen/task_uart.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/bsp_api.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/fsp_common_api.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/fsp_version.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/bsp/bsp_cfg.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_gen/bsp_clock_cfg.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/bsp/bsp_mcu_family_cfg.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/bsp/bsp_mcu_device_pn_cfg.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/bsp/bsp_mcu_device_cfg.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/bsp/../../../ra/fsp/src/bsp/mcu/ra2l1/bsp_mcu_info.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/bsp/../../../ra/fsp/src/bsp/mcu/ra2l1/bsp_elc.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/bsp/../../../ra/fsp/src/bsp/mcu/ra2l1/bsp_icu.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/bsp/../../../ra/fsp/src/bsp/mcu/ra2l1/bsp_feature.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/bsp/../../../ra/fsp/src/bsp/mcu/ra2l1/bsp_power.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/bsp/board_cfg.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_arm_exceptions.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_gen/vector_data.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/cmsis/Device/RENESAS/Include/renesas.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/arm/CMSIS_5/CMSIS/Core/Include/cmsis_compiler.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/arm/CMSIS_5/CMSIS/Core/Include/cmsis_gcc.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/cmsis/Device/RENESAS/Include/R7FA2L1AB.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/arm/CMSIS_5/CMSIS/Core/Include/core_cm23.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/arm/CMSIS_5/CMSIS/Core/Include/cmsis_version.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/arm/CMSIS_5/CMSIS/Core/Include/cmsis_compiler.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/arm/CMSIS_5/CMSIS/Core/Include/mpu_armv8.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/cmsis/Device/RENESAS/Include/system.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/cmsis/Device/RENESAS/Include/system.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_common.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../inc/fsp_common_api.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_compiler_support.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_register_protection.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_irq.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_io.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_group_irq.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_clocks.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_module_stop.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_security.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../inc/fsp_features.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../inc/fsp_common_api.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../inc/../../fsp/src/bsp/mcu/all/bsp_compiler_support.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_delay.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/../../src/bsp/mcu/all/bsp_mcu_api.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/FreeRTOS.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/aws/FreeRTOSConfig.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/projdefs.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/portable.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/deprecated_definitions.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/src/rm_freertos_port/portmacro.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/mpu_wrappers.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/projdefs.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/mpu_wrappers.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/task.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/list.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/semphr.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/queue.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/aws/FreeRTOS/FreeRTOS/Source/include/task.h:
+../ra_gen/hal_data.h:
+../ra_gen/common_data.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/instances/r_ioport.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/r_ioport_api.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/bsp_api.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/r_ioport_cfg.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/bsp/bsp_pin_cfg.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/instances/r_sci_uart.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/r_uart_api.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/r_transfer_api.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/r_sci_uart_cfg.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/instances/r_adc.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra_cfg/fsp_cfg/r_adc_cfg.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/r_adc_api.h:
+/opt/work/workspaces/defaut/ADC_UART_FREERTOS/ra/fsp/inc/api/r_elc_api.h:

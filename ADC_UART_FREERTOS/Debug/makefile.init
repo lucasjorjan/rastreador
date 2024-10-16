@@ -1,0 +1,11 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+arg1 = $(1)
+export PATH=/opt/work/e2_studio_v2/toolchains/gcc_arm/12_2_MPACBTI-Rel1/arm-gnu-toolchain-12.2.mpacbti-rel1-x86_64-arm-none-eabi/bin/:/opt/work/e2_studio_v2/eclipse/plugins/com.renesas.ide.exttools.gnumake.linux.x86_64_1.0.0.v20220121-1024/mk/:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+export TCINSTALL=/opt/work/e2_studio_v2/toolchains/gcc_arm/12_2_MPACBTI-Rel1/arm-gnu-toolchain-12.2.mpacbti-rel1-x86_64-arm-none-eabi/
+export CWD=$(CURDIR)
+export TC_VERSION=12.2.1.20230214
+export PWD=$(CURDIR)
+export GCC_VERSION=12.2.1
